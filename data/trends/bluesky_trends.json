@@ -6,23 +6,41 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-01T12:00:40+00:00",
+ "retrieved_at": "2026-11-01T17:13:13+00:00",
  "date": "2026-11-01",
  "trends": [
   {
-   "topic": "29c959ea8508",
-   "display_name": "Israel's war in Gaza",
+   "topic": "3b3420e4825c",
+   "display_name": "Haley Stevens backs Michigan Republican",
    "rank": 1,
-   "post_count": 897,
+   "post_count": 666,
    "category": "politics",
-   "started": "2026-10-30",
-   "new": false
+   "started": "2026-11-01",
+   "new": true
+  },
+  {
+   "topic": "ab09496caf6e",
+   "display_name": "Juan Atkins dies at 64",
+   "rank": 2,
+   "post_count": 137,
+   "category": "entertainment",
+   "started": "2026-11-01",
+   "new": true
+  },
+  {
+   "topic": "d6371524db7f",
+   "display_name": "Trump weighs renewed Iran strikes",
+   "rank": 3,
+   "post_count": 185,
+   "category": "politics",
+   "started": "2026-10-31",
+   "new": true
   },
   {
    "topic": "81e1924a345d",
    "display_name": "Daylight saving time ends Sunday",
-   "rank": 2,
-   "post_count": 2647,
+   "rank": 4,
+   "post_count": 4845,
    "category": "other",
    "started": "2026-10-28",
    "new": false
@@ -30,209 +48,191 @@
   {
    "topic": "5417c6b9b399",
    "display_name": "Happy Halloween wishes",
-   "rank": 3,
-   "post_count": 64748,
+   "rank": 5,
+   "post_count": 65171,
    "category": "culture",
    "started": "2026-09-24",
    "new": false
   },
   {
-   "topic": "a478bd2b6a1b",
-   "display_name": "Midterm elections days away",
-   "rank": 4,
-   "post_count": 63026,
-   "category": "politics",
-   "started": "2026-10-01",
-   "new": false
-  },
-  {
-   "topic": "31bea4d1746b",
-   "display_name": "AwesomeCharacters trick or treat prompt",
-   "rank": 5,
-   "post_count": 151,
-   "category": "culture",
-   "started": "2026-10-31",
-   "new": true
-  },
-  {
-   "topic": "d723b175679d",
-   "display_name": "Nintendo Switch 2 games",
+   "topic": "8f0bd5156ab3",
+   "display_name": "AO3 outage extends to weeks",
    "rank": 6,
-   "post_count": 259,
-   "category": "entertainment",
-   "started": "2026-10-30",
-   "new": true
+   "post_count": 4880,
+   "category": "culture",
+   "started": "2026-10-29",
+   "new": false
   },
   {
    "topic": "6aa9ba8328f7",
    "display_name": "Fall foliage photos",
    "rank": 7,
-   "post_count": 1392,
+   "post_count": 1507,
    "category": "culture",
    "started": "2026-10-27",
    "new": false
   },
   {
-   "topic": "5de93eba453e",
-   "display_name": "Sam Altman's comments on PC memory",
+   "topic": "75ea9cd73a96",
+   "display_name": "Binance crypto hack",
    "rank": 8,
-   "post_count": 2921,
+   "post_count": 2827,
    "category": "science-tech",
-   "started": "2026-10-30",
-   "new": true
-  },
-  {
-   "topic": "1f247b09d109",
-   "display_name": "Mexico City Grand Prix qualifying",
-   "rank": 9,
-   "post_count": 144,
-   "category": "sports",
-   "started": "2026-10-31",
-   "new": true
-  },
-  {
-   "topic": "8a8472fc-55d4-431c-bc2f-ab0122a75665",
-   "display_name": "Patrick Stewart dies",
-   "rank": 10,
-   "post_count": 201874,
-   "category": "entertainment",
-   "started": "2026-10-16",
-   "new": false
-  },
-  {
-   "topic": "2401c4074959",
-   "display_name": "Burnham open to slavery apology",
-   "rank": 11,
-   "post_count": 308,
-   "category": "politics",
-   "started": "2026-10-30",
-   "new": true
-  },
-  {
-   "topic": "2d0307c454a2",
-   "display_name": "Russian drones hit Ukrainian cities",
-   "rank": 12,
-   "post_count": 2519,
-   "category": "politics",
-   "started": "2026-10-28",
-   "new": false
-  },
-  {
-   "topic": "1d2e4f6842d9",
-   "display_name": "Trump on accepting midterm results",
-   "rank": 13,
-   "post_count": 6773,
-   "category": "politics",
-   "started": "2026-10-26",
-   "new": false
-  },
-  {
-   "topic": "4aabd66cfd1e",
-   "display_name": "Protests spread across Europe",
-   "rank": 14,
-   "post_count": 373,
-   "category": "politics",
-   "started": "2026-10-31",
-   "new": true
-  },
-  {
-   "topic": "2386825545a5",
-   "display_name": "Talarico vs. Paxton Senate race",
-   "rank": 15,
-   "post_count": 1192,
-   "category": "politics",
    "started": "2026-10-29",
-   "new": true
-  },
-  {
-   "topic": "044181613706",
-   "display_name": "North Hollywood ICE arrest video",
-   "rank": 16,
-   "post_count": 2496,
-   "category": "politics",
-   "started": "2026-10-28",
-   "new": false
-  },
-  {
-   "topic": "053b3d35ab06",
-   "display_name": "Trump's Epstein letter lawsuit",
-   "rank": 17,
-   "post_count": 637,
-   "category": "politics",
-   "started": "2026-10-31",
-   "new": true
-  },
-  {
-   "topic": "d1a095d2a3c0",
-   "display_name": "Arrests at US embassy protest",
-   "rank": 18,
-   "post_count": 340,
-   "category": "politics",
-   "started": "2026-10-31",
-   "new": false
-  },
-  {
-   "topic": "5bf0fba814a3",
-   "display_name": "Mexico City Grand Prix practice",
-   "rank": 19,
-   "post_count": 210,
-   "category": "sports",
-   "started": "2026-10-30",
-   "new": true
-  },
-  {
-   "topic": "42fb1118d873",
-   "display_name": "Canada and EU launch alliance",
-   "rank": 20,
-   "post_count": 2164,
-   "category": "politics",
-   "started": "2026-10-28",
-   "new": false
-  },
-  {
-   "topic": "d19ed9e781cd",
-   "display_name": "Oil industry's Iran war profits",
-   "rank": 21,
-   "post_count": 1810,
-   "category": "business",
-   "started": "2026-10-28",
-   "new": false
-  },
-  {
-   "topic": "701c37d104d0",
-   "display_name": "Haley Stevens feuds with El-Sayed",
-   "rank": 22,
-   "post_count": 1771,
-   "category": "politics",
-   "started": "2026-10-30",
    "new": true
   },
   {
    "topic": "1091498fba96",
    "display_name": "Playing Deadlock",
-   "rank": 23,
-   "post_count": 11110,
+   "rank": 9,
+   "post_count": 11169,
    "category": "entertainment",
    "started": "2026-09-29",
    "new": false
   },
   {
-   "topic": "fb875a5ea594",
-   "display_name": "Iran strikes damaged US bases",
-   "rank": 24,
-   "post_count": 235,
-   "category": "politics",
-   "started": "2026-10-31",
+   "topic": "8a8472fc-55d4-431c-bc2f-ab0122a75665",
+   "display_name": "Patrick Stewart dies",
+   "rank": 10,
+   "post_count": 202052,
+   "category": "entertainment",
+   "started": "2026-10-16",
    "new": false
   },
   {
-   "topic": "89755b318515",
-   "display_name": "Discord messages appear in Google",
-   "rank": 25,
-   "post_count": 681,
-   "category": "science-tech",
+   "topic": "a478bd2b6a1b",
+   "display_name": "Midterm elections days away",
+   "rank": 11,
+   "post_count": 64070,
+   "category": "politics",
+   "started": "2026-10-01",
+   "new": false
+  },
+  {
+   "topic": "701c37d104d0",
+   "display_name": "Michigan Democratic Senate primary",
+   "rank": 12,
+   "post_count": 1889,
+   "category": "politics",
+   "started": "2026-10-30",
+   "new": true
+  },
+  {
+   "topic": "b190661e8338",
+   "display_name": "Musk's record political spending",
+   "rank": 13,
+   "post_count": 5714,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": false
+  },
+  {
+   "topic": "1817951e5646",
+   "display_name": "Justice Department probes Alaska ballots",
+   "rank": 14,
+   "post_count": 18845,
+   "category": "politics",
+   "started": "2026-10-22",
+   "new": false
+  },
+  {
+   "topic": "c6a78ef9ea24",
+   "display_name": "John Oliver on Republican far right",
+   "rank": 15,
+   "post_count": 3161,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": false
+  },
+  {
+   "topic": "29c959ea8508",
+   "display_name": "Israel's war in Gaza",
+   "rank": 16,
+   "post_count": 1005,
+   "category": "politics",
+   "started": "2026-10-30",
+   "new": false
+  },
+  {
+   "topic": "5a7280544fdc",
+   "display_name": "DHS employee records leak",
+   "rank": 17,
+   "post_count": 4440,
+   "category": "politics",
    "started": "2026-10-28",
    "new": false
+  },
+  {
+   "topic": "78906f5b4356",
+   "display_name": "Gaza family aid appeals",
+   "rank": 18,
+   "post_count": 843,
+   "category": "politics",
+   "started": "2026-10-29",
+   "new": false
+  },
+  {
+   "topic": "2d0307c454a2",
+   "display_name": "Russian drones hit Ukrainian cities",
+   "rank": 19,
+   "post_count": 2686,
+   "category": "politics",
+   "started": "2026-10-28",
+   "new": false
+  },
+  {
+   "topic": "044181613706",
+   "display_name": "North Hollywood ICE arrest video",
+   "rank": 20,
+   "post_count": 2603,
+   "category": "politics",
+   "started": "2026-10-28",
+   "new": false
+  },
+  {
+   "topic": "42fb1118d873",
+   "display_name": "Canada and EU launch alliance",
+   "rank": 21,
+   "post_count": 2199,
+   "category": "politics",
+   "started": "2026-10-28",
+   "new": false
+  },
+  {
+   "topic": "2386825545a5",
+   "display_name": "Talarico vs. Paxton Senate race",
+   "rank": 22,
+   "post_count": 1236,
+   "category": "politics",
+   "started": "2026-10-29",
+   "new": true
+  },
+  {
+   "topic": "8cb4ce165241",
+   "display_name": "Israeli election final results",
+   "rank": 23,
+   "post_count": 650,
+   "category": "politics",
+   "started": "2026-10-30",
+   "new": false
+  },
+  {
+   "topic": "053b3d35ab06",
+   "display_name": "Trump's Epstein letter lawsuit",
+   "rank": 24,
+   "post_count": 699,
+   "category": "politics",
+   "started": "2026-10-31",
+   "new": true
+  },
+  {
+   "topic": "1d3929de8a59",
+   "display_name": "Dockworkers strike against arms shipments",
+   "rank": 25,
+   "post_count": 147,
+   "category": "politics",
+   "started": "2026-10-30",
+   "new": true
   }
  ],
  "history": {
@@ -656,17 +656,24 @@
    "DHS employee records leak",
    "Daylight saving time ends Sunday",
    "Discord messages appear in Google",
+   "Dockworkers strike against arms shipments",
    "Election officials prosecution case",
    "Fall foliage photos",
    "Florida vs. Georgia",
+   "Gaza family aid appeals",
+   "Haley Stevens backs Michigan Republican",
    "Haley Stevens feuds with El-Sayed",
    "Happy Halloween wishes",
    "Iran strikes damaged US bases",
    "Israel's war in Gaza",
+   "Israeli election final results",
    "John Oliver on Republican far right",
+   "Juan Atkins dies at 64",
+   "Justice Department probes Alaska ballots",
    "Mexico City Grand Prix practice",
    "Mexico City Grand Prix qualifying",
    "Mexico City's Day of the Dead parade",
+   "Michigan Democratic Senate primary",
    "Midterm elections days away",
    "Musk's record political spending",
    "Nintendo Switch 2 games",
@@ -683,6 +690,7 @@
    "Taika Waititi calls critics \"sad lost souls\"",
    "Talarico vs. Paxton Senate race",
    "Trump on accepting midterm results",
+   "Trump weighs renewed Iran strikes",
    "Trump's Epstein letter lawsuit",
    "VRChat rejects AI content labels"
   ]

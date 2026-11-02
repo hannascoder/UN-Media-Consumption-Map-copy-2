@@ -6,233 +6,233 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-02T01:46:02+00:00",
+ "retrieved_at": "2026-11-02T13:47:59+00:00",
  "date": "2026-11-02",
  "trends": [
   {
-   "topic": "c3936c223fd9",
-   "display_name": "Abdul El-Sayed's Michigan Senate run",
+   "topic": "2b6de2a574e9",
+   "display_name": "Songs over six minutes long",
    "rank": 1,
-   "post_count": 1930,
-   "category": "politics",
-   "started": "2026-11-01",
-   "new": false
+   "post_count": 439,
+   "category": "entertainment",
+   "started": "2026-11-02",
+   "new": true
   },
   {
-   "topic": "9a08bcad732c",
-   "display_name": "Haley Stevens compared to Fetterman",
+   "topic": "d6371524db7f",
+   "display_name": "Tucker Carlson warns of Iran nuclear strike",
    "rank": 2,
-   "post_count": 4561,
+   "post_count": 626,
    "category": "politics",
-   "started": "2026-11-01",
-   "new": false
-  },
-  {
-   "topic": "664ebf2699b1",
-   "display_name": "Spotify plans AI song remix tool",
-   "rank": 3,
-   "post_count": 147,
-   "category": "science-tech",
-   "started": "2026-11-01",
-   "new": true
-  },
-  {
-   "topic": "81e1924a345d",
-   "display_name": "Daylight saving time ends Sunday",
-   "rank": 4,
-   "post_count": 6622,
-   "category": "other",
-   "started": "2026-10-28",
-   "new": false
-  },
-  {
-   "topic": "77ebd10af54e",
-   "display_name": "Viral Star Wars \"what they stole\" post",
-   "rank": 5,
-   "post_count": 494,
-   "category": "entertainment",
-   "started": "2026-11-01",
-   "new": true
-  },
-  {
-   "topic": "5417c6b9b399",
-   "display_name": "Happy Halloween wishes",
-   "rank": 6,
-   "post_count": 65628,
-   "category": "culture",
-   "started": "2026-09-24",
-   "new": false
-  },
-  {
-   "topic": "273081353b1c",
-   "display_name": "John Leeson dies",
-   "rank": 7,
-   "post_count": 303,
-   "category": "entertainment",
-   "started": "2026-11-01",
-   "new": false
-  },
-  {
-   "topic": "1091498fba96",
-   "display_name": "Playing Deadlock",
-   "rank": 8,
-   "post_count": 11280,
-   "category": "entertainment",
-   "started": "2026-09-29",
-   "new": false
-  },
-  {
-   "topic": "8f0bd5156ab3",
-   "display_name": "AO3 outage extends to weeks",
-   "rank": 9,
-   "post_count": 5067,
-   "category": "culture",
-   "started": "2026-10-29",
-   "new": false
-  },
-  {
-   "topic": "75ea9cd73a96",
-   "display_name": "FBI attribution in Binance hack",
-   "rank": 10,
-   "post_count": 2897,
-   "category": "business",
-   "started": "2026-10-29",
-   "new": true
-  },
-  {
-   "topic": "a92707943b11",
-   "display_name": "Detroit church cheers El-Sayed",
-   "rank": 11,
-   "post_count": 3534,
-   "category": "politics",
-   "started": "2026-11-01",
-   "new": false
-  },
-  {
-   "topic": "eb2cf178ce96",
-   "display_name": "Trump calls football boring",
-   "rank": 12,
-   "post_count": 494,
-   "category": "politics",
-   "started": "2026-11-01",
-   "new": true
-  },
-  {
-   "topic": "c6a78ef9ea24",
-   "display_name": "John Oliver on Republican far right",
-   "rank": 13,
-   "post_count": 3513,
-   "category": "politics",
-   "started": "2026-10-26",
-   "new": false
-  },
-  {
-   "topic": "87744cb1f12c",
-   "display_name": "Sen. Chris Murphy hospitalized with stroke",
-   "rank": 14,
-   "post_count": 888,
-   "category": "politics",
-   "started": "2026-11-01",
-   "new": false
-  },
-  {
-   "topic": "f8ebb7f9bebb",
-   "display_name": "Haley Stevens appears with Republican",
-   "rank": 15,
-   "post_count": 145,
-   "category": "politics",
-   "started": "2026-11-01",
+   "started": "2026-10-31",
    "new": true
   },
   {
    "topic": "a478bd2b6a1b",
    "display_name": "Midterm elections days away",
-   "rank": 16,
-   "post_count": 65712,
+   "rank": 3,
+   "post_count": 67363,
    "category": "politics",
    "started": "2026-10-01",
    "new": false
   },
   {
-   "topic": "d6371524db7f",
-   "display_name": "Trump weighs renewed Iran strikes",
-   "rank": 17,
-   "post_count": 358,
-   "category": "politics",
-   "started": "2026-10-31",
+   "topic": "afe949efb622",
+   "display_name": "European supermarket freezers hacked",
+   "rank": 4,
+   "post_count": 346,
+   "category": "science-tech",
+   "started": "2026-11-02",
+   "new": true
+  },
+  {
+   "topic": "81e1924a345d",
+   "display_name": "Daylight saving time ends Sunday",
+   "rank": 5,
+   "post_count": 7252,
+   "category": "other",
+   "started": "2026-10-28",
    "new": false
   },
   {
-   "topic": "a56eadca42c5",
-   "display_name": "Political fights over data centers",
-   "rank": 18,
-   "post_count": 1653,
-   "category": "politics",
+   "topic": "8f0bd5156ab3",
+   "display_name": "AO3 outage extends to weeks",
+   "rank": 6,
+   "post_count": 5234,
+   "category": "culture",
    "started": "2026-10-29",
    "new": false
   },
   {
-   "topic": "29c959ea8508",
-   "display_name": "Israel's war in Gaza",
-   "rank": 19,
-   "post_count": 1146,
-   "category": "politics",
-   "started": "2026-10-30",
-   "new": false
+   "topic": "664ebf2699b1",
+   "display_name": "Spotify plans AI song remix tool",
+   "rank": 7,
+   "post_count": 473,
+   "category": "science-tech",
+   "started": "2026-11-01",
+   "new": true
   },
   {
-   "topic": "8cb4ce165241",
-   "display_name": "Israeli election final results",
-   "rank": 20,
-   "post_count": 690,
-   "category": "politics",
-   "started": "2026-10-30",
-   "new": false
-  },
-  {
-   "topic": "9b904a7e3344",
-   "display_name": "Laika's Wildwood in theaters",
-   "rank": 21,
-   "post_count": 245,
+   "topic": "77ebd10af54e",
+   "display_name": "Viral Star Wars \"what they stole\" post",
+   "rank": 8,
+   "post_count": 774,
    "category": "entertainment",
+   "started": "2026-11-01",
+   "new": true
+  },
+  {
+   "topic": "99bba3a4306a",
+   "display_name": "Canadian provinces skip clock change",
+   "rank": 9,
+   "post_count": 186,
+   "category": "other",
+   "started": "2026-11-01",
+   "new": true
+  },
+  {
+   "topic": "6aa9ba8328f7",
+   "display_name": "Fall foliage photos",
+   "rank": 10,
+   "post_count": 1712,
+   "category": "culture",
+   "started": "2026-10-27",
+   "new": false
+  },
+  {
+   "topic": "9a08bcad732c",
+   "display_name": "Haley Stevens compared to Fetterman",
+   "rank": 11,
+   "post_count": 6644,
+   "category": "politics",
+   "started": "2026-11-01",
+   "new": false
+  },
+  {
+   "topic": "b190661e8338",
+   "display_name": "Musk's record political spending",
+   "rank": 12,
+   "post_count": 6201,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": false
+  },
+  {
+   "topic": "a92707943b11",
+   "display_name": "Detroit church cheers El-Sayed",
+   "rank": 13,
+   "post_count": 4651,
+   "category": "politics",
+   "started": "2026-11-01",
+   "new": false
+  },
+  {
+   "topic": "c3936c223fd9",
+   "display_name": "Abdul El-Sayed's Michigan Senate run",
+   "rank": 14,
+   "post_count": 2322,
+   "category": "politics",
+   "started": "2026-11-01",
+   "new": false
+  },
+  {
+   "topic": "d1a095d2a3c0",
+   "display_name": "Arrests at US embassy protest",
+   "rank": 15,
+   "post_count": 499,
+   "category": "politics",
    "started": "2026-10-31",
    "new": false
   },
   {
-   "topic": "5a7280544fdc",
-   "display_name": "DHS employee records leak",
-   "rank": 22,
-   "post_count": 4525,
+   "topic": "98ef295c54e8",
+   "display_name": "Trump says he'd have won Vietnam",
+   "rank": 16,
+   "post_count": 251,
    "category": "politics",
-   "started": "2026-10-28",
+   "started": "2026-11-01",
+   "new": true
+  },
+  {
+   "topic": "87744cb1f12c",
+   "display_name": "Sen. Chris Murphy hospitalized with stroke",
+   "rank": 17,
+   "post_count": 1014,
+   "category": "politics",
+   "started": "2026-11-01",
+   "new": false
+  },
+  {
+   "topic": "c6a78ef9ea24",
+   "display_name": "John Oliver on Republican far right",
+   "rank": 18,
+   "post_count": 3641,
+   "category": "politics",
+   "started": "2026-10-26",
+   "new": false
+  },
+  {
+   "topic": "4b20f6508385",
+   "display_name": "Roger Marshall's closing campaign ad",
+   "rank": 19,
+   "post_count": 266,
+   "category": "politics",
+   "started": "2026-11-01",
+   "new": true
+  },
+  {
+   "topic": "29c959ea8508",
+   "display_name": "Israel's war in Gaza",
+   "rank": 20,
+   "post_count": 1292,
+   "category": "politics",
+   "started": "2026-10-30",
    "new": false
   },
   {
    "topic": "42fb1118d873",
    "display_name": "Canada and EU launch alliance",
-   "rank": 23,
-   "post_count": 2316,
+   "rank": 21,
+   "post_count": 2376,
    "category": "politics",
    "started": "2026-10-28",
    "new": false
   },
   {
-   "topic": "d95f33ea0a98",
-   "display_name": "All Saints' Day observances",
-   "rank": 24,
-   "post_count": 140,
-   "category": "culture",
-   "started": "2026-11-01",
-   "new": true
+   "topic": "56b8ae964ea9",
+   "display_name": "Lessons from Brazil's runoff election",
+   "rank": 22,
+   "post_count": 315,
+   "category": "politics",
+   "started": "2026-10-30",
+   "new": false
   },
   {
-   "topic": "81fa0290253f",
-   "display_name": "Formula 1 Mexico City Grand Prix",
+   "topic": "5417c6b9b399",
+   "display_name": "Happy Halloween wishes",
+   "rank": 23,
+   "post_count": 65801,
+   "category": "culture",
+   "started": "2026-09-24",
+   "new": false
+  },
+  {
+   "topic": "f2b49023ecb8",
+   "display_name": "Final Fantasy Resonance",
+   "rank": 24,
+   "post_count": 2915,
+   "category": "entertainment",
+   "started": "2026-10-25",
+   "new": false
+  },
+  {
+   "topic": "ab09496caf6e",
+   "display_name": "Juan Atkins dies at 64",
    "rank": 25,
-   "post_count": 235,
-   "category": "sports",
+   "post_count": 641,
+   "category": "entertainment",
    "started": "2026-11-01",
-   "new": true
+   "new": false
   }
  ],
  "history": {
@@ -648,11 +648,16 @@
    "AO3 outage extends to weeks",
    "Abdul El-Sayed's Michigan Senate run",
    "All Saints' Day observances",
+   "Arrests at US embassy protest",
    "Canada and EU launch alliance",
+   "Canadian provinces skip clock change",
    "DHS employee records leak",
    "Daylight saving time ends Sunday",
    "Detroit church cheers El-Sayed",
+   "European supermarket freezers hacked",
    "FBI attribution in Binance hack",
+   "Fall foliage photos",
+   "Final Fantasy Resonance",
    "Formula 1 Mexico City Grand Prix",
    "Haley Stevens appears with Republican",
    "Haley Stevens compared to Fetterman",
@@ -661,14 +666,21 @@
    "Israeli election final results",
    "John Leeson dies",
    "John Oliver on Republican far right",
+   "Juan Atkins dies at 64",
    "Laika's Wildwood in theaters",
+   "Lessons from Brazil's runoff election",
    "Midterm elections days away",
+   "Musk's record political spending",
    "Playing Deadlock",
    "Political fights over data centers",
+   "Roger Marshall's closing campaign ad",
    "Sen. Chris Murphy hospitalized with stroke",
+   "Songs over six minutes long",
    "Spotify plans AI song remix tool",
    "Trump calls football boring",
+   "Trump says he'd have won Vietnam",
    "Trump weighs renewed Iran strikes",
+   "Tucker Carlson warns of Iran nuclear strike",
    "Viral Star Wars \"what they stole\" post"
   ]
  }

@@ -1,7 +1,7 @@
 {
  "_meta": {
-  "generated_at": "2026-10-26T08:12:51+00:00",
-  "window": "2026-07 to 2026-09 (3-month average)",
+  "generated_at": "2026-11-02T10:11:07+00:00",
+  "window": "2026-08 to 2026-10 (3-month average)",
   "source": "Statcounter GlobalStats (gs.statcounter.com), free CSV API",
   "method_note": "Share of social-platform REFERRALS to Statcounter-tracked websites. A real measured monthly signal, but web-referral based: app-first platforms (WhatsApp, TikTok, Telegram) barely refer web traffic and are mostly invisible here. Never read the top platform in this table as 'the country's leading platform'; the curated leading-platform field measures actual usage. Platforms under 0.5% share are dropped; small markets have thin tracker coverage.",
   "country_count": 195
@@ -9,1498 +9,1497 @@
  "countries": {
   "AFG": {
    "shares": {
-    "Facebook": 71.18,
-    "Twitter": 17.02,
-    "YouTube": 4.79,
-    "Instagram": 3.9,
-    "Pinterest": 1.41,
-    "reddit": 0.84
+    "Facebook": 74.51,
+    "Twitter": 15.4,
+    "Instagram": 3.95,
+    "YouTube": 3.83,
+    "Pinterest": 1.2,
+    "reddit": 0.73
    },
    "top_web_platform": "Facebook"
   },
   "AGO": {
    "shares": {
-    "Facebook": 75.94,
-    "YouTube": 10.49,
-    "Twitter": 4.05,
-    "Pinterest": 3.5,
-    "Instagram": 3.18,
-    "reddit": 1.64
+    "Facebook": 66.36,
+    "YouTube": 16.72,
+    "Twitter": 5.69,
+    "Pinterest": 4.38,
+    "Instagram": 3.35,
+    "reddit": 1.73
    },
    "top_web_platform": "Facebook"
   },
   "ALB": {
    "shares": {
-    "Facebook": 94.12,
-    "Instagram": 2.69,
-    "Twitter": 1.47,
-    "reddit": 0.64,
-    "Pinterest": 0.5
+    "Facebook": 92.1,
+    "Instagram": 3.46,
+    "Twitter": 2.09,
+    "reddit": 0.91,
+    "Pinterest": 0.68
    },
    "top_web_platform": "Facebook"
   },
   "AND": {
    "shares": {
-    "Facebook": 79.45,
-    "Twitter": 8.95,
-    "Instagram": 6.93,
-    "reddit": 1.99,
-    "Pinterest": 1.09,
-    "YouTube": 0.78
+    "Facebook": 78.74,
+    "Twitter": 9.8,
+    "Instagram": 6.73,
+    "reddit": 1.66,
+    "Pinterest": 1.13,
+    "YouTube": 0.95
    },
    "top_web_platform": "Facebook"
   },
   "ARE": {
    "shares": {
-    "Facebook": 74.47,
-    "Instagram": 9.61,
-    "YouTube": 6.94,
-    "Twitter": 6.0,
-    "Pinterest": 1.61,
-    "reddit": 0.83
+    "Facebook": 74.38,
+    "Instagram": 8.45,
+    "Twitter": 7.4,
+    "YouTube": 6.78,
+    "Pinterest": 1.65,
+    "reddit": 0.79
    },
    "top_web_platform": "Facebook"
   },
   "ARG": {
    "shares": {
-    "Facebook": 78.62,
-    "YouTube": 10.32,
-    "Instagram": 7.6,
-    "Twitter": 1.36,
-    "LinkedIn": 0.93,
-    "Pinterest": 0.69
+    "Facebook": 79.58,
+    "YouTube": 9.74,
+    "Instagram": 7.58,
+    "Twitter": 1.4,
+    "LinkedIn": 0.73,
+    "Pinterest": 0.6
    },
    "top_web_platform": "Facebook"
   },
   "ARM": {
    "shares": {
-    "YouTube": 63.64,
-    "Facebook": 23.09,
-    "Instagram": 4.21,
-    "Twitter": 3.52,
-    "Pinterest": 1.97,
-    "LinkedIn": 1.89
+    "YouTube": 65.02,
+    "Facebook": 19.15,
+    "Instagram": 4.86,
+    "Twitter": 4.85,
+    "Pinterest": 2.38,
+    "LinkedIn": 1.98
    },
    "top_web_platform": "YouTube"
   },
   "ATG": {
    "shares": {
-    "Facebook": 82.16,
-    "Instagram": 15.32,
-    "Pinterest": 1.03,
-    "Twitter": 0.66
+    "Facebook": 88.78,
+    "Instagram": 8.6,
+    "Pinterest": 0.94,
+    "Twitter": 0.79
    },
    "top_web_platform": "Facebook"
   },
   "AUS": {
    "shares": {
-    "Facebook": 73.63,
-    "Twitter": 7.4,
-    "Instagram": 6.49,
-    "Pinterest": 5.76,
-    "reddit": 3.49,
-    "YouTube": 2.37
+    "Facebook": 72.27,
+    "Twitter": 8.01,
+    "Instagram": 6.64,
+    "Pinterest": 5.4,
+    "reddit": 4.36,
+    "YouTube": 2.53
    },
    "top_web_platform": "Facebook"
   },
   "AUT": {
    "shares": {
-    "Facebook": 61.77,
-    "Twitter": 10.26,
-    "Instagram": 9.06,
-    "Pinterest": 7.51,
-    "reddit": 5.02,
-    "YouTube": 4.44
+    "Facebook": 59.35,
+    "Twitter": 12.56,
+    "Instagram": 8.25,
+    "Pinterest": 7.98,
+    "reddit": 5.87,
+    "YouTube": 4.09
    },
    "top_web_platform": "Facebook"
   },
   "AZE": {
    "shares": {
-    "Facebook": 31.12,
-    "YouTube": 29.14,
-    "Instagram": 12.74,
-    "Twitter": 9.55,
-    "LinkedIn": 6.44,
-    "Pinterest": 6.44
+    "Facebook": 30.62,
+    "YouTube": 30.44,
+    "Instagram": 11.08,
+    "Twitter": 10.96,
+    "Pinterest": 6.61,
+    "LinkedIn": 6.02
    },
    "top_web_platform": "Facebook"
   },
   "BDI": {
    "shares": {
-    "Facebook": 78.84,
-    "Twitter": 13.1,
-    "YouTube": 3.66,
-    "Instagram": 2.61,
-    "Pinterest": 1.28
+    "Facebook": 81.7,
+    "Twitter": 9.98,
+    "YouTube": 4.34,
+    "Instagram": 2.22,
+    "Pinterest": 1.27
    },
    "top_web_platform": "Facebook"
   },
   "BEL": {
    "shares": {
-    "Facebook": 81.76,
-    "Instagram": 5.36,
-    "Pinterest": 4.49,
-    "Twitter": 3.73,
-    "YouTube": 2.0,
-    "reddit": 1.47
+    "Facebook": 80.17,
+    "Instagram": 5.33,
+    "Pinterest": 5.08,
+    "Twitter": 4.44,
+    "YouTube": 1.96,
+    "reddit": 1.81
    },
    "top_web_platform": "Facebook"
   },
   "BEN": {
    "shares": {
-    "Facebook": 57.61,
-    "Twitter": 35.4,
-    "YouTube": 3.01,
-    "Instagram": 1.83,
-    "Pinterest": 0.97,
-    "reddit": 0.63
+    "Facebook": 61.62,
+    "Twitter": 31.58,
+    "YouTube": 3.0,
+    "Instagram": 1.52,
+    "Pinterest": 0.9,
+    "reddit": 0.73
    },
    "top_web_platform": "Facebook"
   },
   "BFA": {
    "shares": {
-    "Facebook": 83.47,
-    "Twitter": 13.72,
-    "YouTube": 1.61,
-    "Instagram": 0.5
+    "Facebook": 86.69,
+    "Twitter": 10.33,
+    "YouTube": 1.94
    },
    "top_web_platform": "Facebook"
   },
   "BGD": {
    "shares": {
-    "Facebook": 74.47,
-    "YouTube": 19.55,
-    "Instagram": 2.77,
-    "Pinterest": 1.09,
-    "Twitter": 0.84,
-    "reddit": 0.64
+    "Facebook": 75.87,
+    "YouTube": 18.71,
+    "Instagram": 2.27,
+    "Pinterest": 0.98,
+    "Twitter": 0.85
    },
    "top_web_platform": "Facebook"
   },
   "BGR": {
    "shares": {
-    "Facebook": 97.06,
-    "Instagram": 1.31,
-    "YouTube": 1.24
+    "Facebook": 97.1,
+    "Instagram": 1.36,
+    "YouTube": 1.15
    },
    "top_web_platform": "Facebook"
   },
   "BHR": {
    "shares": {
-    "Facebook": 58.66,
-    "Instagram": 21.5,
-    "YouTube": 9.92,
-    "Twitter": 4.99,
-    "Pinterest": 3.39,
+    "Facebook": 58.36,
+    "Instagram": 21.37,
+    "YouTube": 8.39,
+    "Twitter": 6.37,
+    "Pinterest": 3.87,
     "reddit": 1.11
    },
    "top_web_platform": "Facebook"
   },
   "BHS": {
    "shares": {
-    "Facebook": 89.48,
-    "Twitter": 6.04,
-    "Pinterest": 1.77,
-    "Instagram": 1.73
+    "Facebook": 90.51,
+    "Twitter": 5.14,
+    "Pinterest": 1.89,
+    "Instagram": 1.56
    },
    "top_web_platform": "Facebook"
   },
   "BIH": {
    "shares": {
-    "Facebook": 88.51,
-    "Instagram": 5.45,
-    "Twitter": 2.03,
-    "YouTube": 1.59,
-    "reddit": 1.12,
-    "Pinterest": 1.02
+    "Facebook": 88.06,
+    "Instagram": 5.35,
+    "Twitter": 2.24,
+    "YouTube": 1.8,
+    "Pinterest": 1.15,
+    "reddit": 1.13
    },
    "top_web_platform": "Facebook"
   },
   "BLR": {
    "shares": {
-    "Twitter": 17.73,
-    "reddit": 17.23,
-    "Facebook": 16.72,
-    "Pinterest": 14.32,
-    "Instagram": 13.7,
-    "YouTube": 12.88
+    "Facebook": 18.68,
+    "Twitter": 18.16,
+    "Pinterest": 16.67,
+    "reddit": 15.76,
+    "Instagram": 12.88,
+    "YouTube": 12.27
    },
-   "top_web_platform": "Twitter"
+   "top_web_platform": "Facebook"
   },
   "BLZ": {
    "shares": {
-    "Facebook": 69.68,
-    "Twitter": 12.08,
-    "Pinterest": 8.65,
-    "Instagram": 5.84,
-    "reddit": 1.4,
-    "YouTube": 1.12
+    "Facebook": 67.03,
+    "Twitter": 14.2,
+    "Pinterest": 9.35,
+    "Instagram": 4.86,
+    "reddit": 1.65,
+    "LinkedIn": 1.43
    },
    "top_web_platform": "Facebook"
   },
   "BOL": {
    "shares": {
-    "Facebook": 70.09,
-    "YouTube": 17.5,
-    "Instagram": 3.73,
-    "Pinterest": 3.48,
-    "LinkedIn": 1.93,
-    "Twitter": 1.62
+    "Facebook": 75.22,
+    "YouTube": 12.63,
+    "Pinterest": 3.35,
+    "Instagram": 3.05,
+    "LinkedIn": 2.44,
+    "Twitter": 1.9
    },
    "top_web_platform": "Facebook"
   },
   "BRA": {
    "shares": {
-    "Facebook": 42.13,
-    "Instagram": 30.66,
-    "YouTube": 14.07,
-    "Twitter": 4.64,
-    "Pinterest": 3.91,
-    "reddit": 2.77
+    "Facebook": 46.88,
+    "Instagram": 28.72,
+    "YouTube": 12.35,
+    "Twitter": 4.62,
+    "Pinterest": 3.55,
+    "reddit": 2.2
    },
    "top_web_platform": "Facebook"
   },
   "BRB": {
    "shares": {
-    "Facebook": 74.55,
-    "Instagram": 14.9,
-    "Pinterest": 5.0,
-    "Twitter": 2.21,
-    "YouTube": 1.44,
-    "reddit": 0.96
+    "Facebook": 73.56,
+    "Instagram": 14.74,
+    "Pinterest": 5.37,
+    "Twitter": 2.77,
+    "LinkedIn": 1.2,
+    "reddit": 1.15
    },
    "top_web_platform": "Facebook"
   },
   "BRN": {
    "shares": {
-    "Instagram": 35.8,
-    "Facebook": 20.29,
-    "Pinterest": 18.37,
-    "reddit": 10.06,
-    "YouTube": 8.43,
-    "Twitter": 6.02
+    "Instagram": 31.26,
+    "Facebook": 23.25,
+    "Pinterest": 16.62,
+    "reddit": 11.95,
+    "YouTube": 8.31,
+    "Twitter": 7.75
    },
    "top_web_platform": "Instagram"
   },
   "BTN": {
    "shares": {
-    "Facebook": 67.35,
-    "Pinterest": 11.28,
-    "YouTube": 11.28,
-    "Instagram": 3.65,
-    "Twitter": 3.25,
-    "reddit": 2.92
+    "Facebook": 73.54,
+    "Pinterest": 9.01,
+    "YouTube": 6.72,
+    "Twitter": 4.68,
+    "Instagram": 2.89,
+    "reddit": 2.7
    },
    "top_web_platform": "Facebook"
   },
   "BWA": {
    "shares": {
-    "Facebook": 57.22,
-    "Pinterest": 10.11,
-    "Twitter": 8.76,
-    "YouTube": 8.26,
-    "Instagram": 5.94,
-    "reddit": 5.56
+    "Facebook": 57.71,
+    "Twitter": 10.71,
+    "Pinterest": 9.95,
+    "YouTube": 8.05,
+    "Instagram": 4.71,
+    "reddit": 4.49
    },
    "top_web_platform": "Facebook"
   },
   "CAF": {
    "shares": {
-    "Facebook": 89.34,
-    "Twitter": 9.69
+    "Facebook": 83.72,
+    "Twitter": 13.74,
+    "YouTube": 1.56,
+    "Instagram": 0.57
    },
    "top_web_platform": "Facebook"
   },
   "CAN": {
    "shares": {
-    "Facebook": 50.25,
-    "Twitter": 18.56,
-    "Pinterest": 10.39,
-    "reddit": 7.41,
-    "Instagram": 6.08,
-    "YouTube": 5.97
+    "Facebook": 49.44,
+    "Twitter": 19.19,
+    "Pinterest": 10.64,
+    "reddit": 9.83,
+    "Instagram": 5.78,
+    "YouTube": 3.93
    },
    "top_web_platform": "Facebook"
   },
   "CHE": {
    "shares": {
-    "Facebook": 60.66,
-    "Twitter": 15.3,
-    "Instagram": 10.09,
-    "Pinterest": 5.42,
-    "YouTube": 4.05,
-    "reddit": 2.66
+    "Facebook": 56.37,
+    "Twitter": 19.68,
+    "Instagram": 8.89,
+    "Pinterest": 5.91,
+    "YouTube": 3.99,
+    "reddit": 3.44
    },
    "top_web_platform": "Facebook"
   },
   "CHL": {
    "shares": {
-    "Facebook": 55.09,
-    "Instagram": 20.29,
-    "YouTube": 9.8,
-    "Pinterest": 5.23,
-    "Twitter": 4.15,
-    "reddit": 3.02
+    "Facebook": 61.33,
+    "Instagram": 15.34,
+    "YouTube": 10.4,
+    "Pinterest": 4.38,
+    "Twitter": 3.97,
+    "reddit": 2.33
    },
    "top_web_platform": "Facebook"
   },
   "CHN": {
    "shares": {
-    "Twitter": 36.94,
-    "Facebook": 29.75,
-    "Pinterest": 11.34,
-    "YouTube": 7.9,
-    "Instagram": 6.89,
-    "reddit": 3.14
+    "Facebook": 41.18,
+    "Twitter": 34.6,
+    "Pinterest": 7.63,
+    "Instagram": 5.89,
+    "YouTube": 5.29,
+    "reddit": 2.4
    },
-   "top_web_platform": "Twitter"
+   "top_web_platform": "Facebook"
   },
   "CIV": {
    "shares": {
-    "Facebook": 75.11,
-    "Twitter": 17.16,
-    "YouTube": 4.21,
-    "Instagram": 1.28,
-    "Pinterest": 0.99,
-    "reddit": 0.63
+    "Facebook": 78.03,
+    "Twitter": 13.63,
+    "YouTube": 4.53,
+    "Instagram": 1.26,
+    "Pinterest": 1.14,
+    "LinkedIn": 0.69
    },
    "top_web_platform": "Facebook"
   },
   "CMR": {
    "shares": {
-    "Facebook": 77.75,
-    "Twitter": 14.3,
-    "Instagram": 2.96,
-    "YouTube": 2.73,
-    "Pinterest": 1.12,
-    "LinkedIn": 0.66
+    "Facebook": 79.98,
+    "Twitter": 11.77,
+    "YouTube": 3.1,
+    "Instagram": 2.7,
+    "Pinterest": 1.11,
+    "LinkedIn": 0.72
    },
    "top_web_platform": "Facebook"
   },
   "COD": {
    "shares": {
-    "Facebook": 53.27,
-    "Twitter": 39.27,
-    "YouTube": 3.58,
-    "Instagram": 1.42,
-    "Pinterest": 1.22,
-    "reddit": 0.63
+    "Facebook": 57.11,
+    "Twitter": 34.79,
+    "YouTube": 3.68,
+    "Instagram": 1.49,
+    "Pinterest": 1.39,
+    "LinkedIn": 0.77
    },
    "top_web_platform": "Facebook"
   },
   "COG": {
    "shares": {
-    "Facebook": 63.72,
-    "Twitter": 25.61,
-    "YouTube": 6.25,
-    "Pinterest": 1.72,
-    "Instagram": 1.43,
-    "reddit": 0.67
+    "Facebook": 66.11,
+    "Twitter": 20.57,
+    "YouTube": 8.36,
+    "Pinterest": 2.0,
+    "Instagram": 1.22,
+    "reddit": 0.94
    },
    "top_web_platform": "Facebook"
   },
   "COL": {
    "shares": {
-    "Facebook": 49.07,
-    "Instagram": 21.8,
-    "YouTube": 18.6,
-    "Twitter": 5.09,
-    "Pinterest": 2.43,
-    "LinkedIn": 1.77
+    "Facebook": 53.44,
+    "Instagram": 22.08,
+    "YouTube": 13.43,
+    "Twitter": 5.43,
+    "Pinterest": 2.53,
+    "LinkedIn": 2.0
    },
    "top_web_platform": "Facebook"
   },
   "COM": {
    "shares": {
-    "Facebook": 81.92,
-    "Twitter": 13.31,
-    "YouTube": 2.17,
-    "Instagram": 1.78
+    "Facebook": 82.13,
+    "Twitter": 12.49,
+    "YouTube": 2.74,
+    "Instagram": 1.87,
+    "reddit": 0.64
    },
    "top_web_platform": "Facebook"
   },
   "CPV": {
    "shares": {
-    "Facebook": 80.13,
-    "Instagram": 8.39,
-    "YouTube": 3.71,
-    "Pinterest": 3.22,
-    "Twitter": 1.89,
-    "LinkedIn": 1.64
+    "Facebook": 83.65,
+    "Instagram": 7.19,
+    "YouTube": 2.66,
+    "Pinterest": 2.47,
+    "Twitter": 1.76,
+    "LinkedIn": 1.44
    },
    "top_web_platform": "Facebook"
   },
   "CRI": {
    "shares": {
-    "Facebook": 79.59,
-    "Instagram": 10.43,
-    "Twitter": 3.31,
-    "Pinterest": 2.57,
-    "YouTube": 1.35,
-    "LinkedIn": 1.3
+    "Facebook": 74.93,
+    "Instagram": 11.31,
+    "YouTube": 5.51,
+    "Twitter": 3.37,
+    "Pinterest": 2.19,
+    "LinkedIn": 1.42
    },
    "top_web_platform": "Facebook"
   },
   "CUB": {
    "shares": {
-    "Facebook": 89.31,
-    "YouTube": 3.17,
-    "Pinterest": 2.47,
-    "Instagram": 1.66,
-    "Twitter": 1.58,
-    "reddit": 1.37
+    "Facebook": 89.78,
+    "YouTube": 3.47,
+    "Pinterest": 2.23,
+    "Instagram": 1.52,
+    "Twitter": 1.45,
+    "reddit": 1.2
    },
    "top_web_platform": "Facebook"
   },
   "CYP": {
    "shares": {
-    "Facebook": 81.16,
-    "YouTube": 7.54,
-    "Instagram": 7.07,
-    "Twitter": 2.28,
-    "Pinterest": 1.07,
-    "reddit": 0.5
+    "Facebook": 82.97,
+    "Instagram": 12.27,
+    "YouTube": 2.61,
+    "Twitter": 1.27
    },
    "top_web_platform": "Facebook"
   },
   "CZE": {
    "shares": {
-    "Facebook": 68.37,
-    "Pinterest": 7.98,
-    "Twitter": 7.84,
-    "Instagram": 6.22,
-    "reddit": 4.25,
-    "YouTube": 3.91
+    "Facebook": 67.59,
+    "Pinterest": 8.86,
+    "Twitter": 8.38,
+    "Instagram": 6.11,
+    "reddit": 4.02,
+    "YouTube": 3.7
    },
    "top_web_platform": "Facebook"
   },
   "DEU": {
    "shares": {
-    "Facebook": 55.58,
-    "Instagram": 12.38,
-    "Twitter": 10.48,
-    "Pinterest": 7.87,
-    "YouTube": 5.66,
-    "reddit": 5.57
+    "Facebook": 57.07,
+    "Twitter": 12.21,
+    "Instagram": 10.42,
+    "Pinterest": 7.6,
+    "reddit": 5.69,
+    "YouTube": 4.69
    },
    "top_web_platform": "Facebook"
   },
   "DJI": {
    "shares": {
-    "Facebook": 47.31,
-    "YouTube": 23.77,
-    "Twitter": 13.12,
-    "Instagram": 10.41,
-    "Pinterest": 3.04,
-    "reddit": 2.22
+    "Facebook": 40.69,
+    "Twitter": 28.18,
+    "YouTube": 15.85,
+    "Instagram": 9.67,
+    "Pinterest": 3.61,
+    "reddit": 1.86
    },
    "top_web_platform": "Facebook"
   },
   "DMA": {
    "shares": {
-    "Facebook": 88.09,
-    "Instagram": 4.65,
-    "Pinterest": 3.05,
-    "LinkedIn": 1.83,
-    "YouTube": 1.0,
-    "reddit": 0.55
+    "Facebook": 85.23,
+    "Instagram": 4.6,
+    "Pinterest": 4.03,
+    "LinkedIn": 2.51,
+    "Twitter": 1.53,
+    "YouTube": 1.45
    },
    "top_web_platform": "Facebook"
   },
   "DNK": {
    "shares": {
-    "Facebook": 85.53,
-    "Instagram": 4.59,
-    "Pinterest": 3.42,
-    "Twitter": 2.61,
-    "reddit": 2.01,
-    "YouTube": 0.94
+    "Facebook": 83.11,
+    "Instagram": 4.49,
+    "Pinterest": 4.22,
+    "Twitter": 3.34,
+    "reddit": 2.91,
+    "YouTube": 0.96
    },
    "top_web_platform": "Facebook"
   },
   "DOM": {
    "shares": {
-    "Facebook": 82.49,
-    "Instagram": 7.22,
-    "YouTube": 4.89,
-    "Twitter": 2.93,
+    "Facebook": 84.0,
+    "Instagram": 6.04,
+    "YouTube": 4.54,
+    "Twitter": 2.86,
     "Pinterest": 0.99,
-    "LinkedIn": 0.84
+    "LinkedIn": 0.98
    },
    "top_web_platform": "Facebook"
   },
   "DZA": {
    "shares": {
-    "Facebook": 70.69,
-    "YouTube": 15.93,
-    "Instagram": 8.42,
-    "Twitter": 4.36
+    "Facebook": 64.31,
+    "YouTube": 19.95,
+    "Instagram": 8.93,
+    "Twitter": 6.05
    },
    "top_web_platform": "Facebook"
   },
   "ECU": {
    "shares": {
-    "Facebook": 64.61,
-    "YouTube": 20.5,
-    "Instagram": 9.17,
-    "Pinterest": 2.58,
-    "Twitter": 1.2,
-    "LinkedIn": 1.18
+    "Facebook": 71.61,
+    "YouTube": 16.34,
+    "Instagram": 7.25,
+    "Pinterest": 1.97,
+    "LinkedIn": 1.18,
+    "Twitter": 1.07
    },
    "top_web_platform": "Facebook"
   },
   "EGY": {
    "shares": {
-    "Facebook": 78.34,
-    "YouTube": 14.51,
-    "Instagram": 4.06,
-    "Twitter": 2.34
+    "Facebook": 71.6,
+    "YouTube": 18.77,
+    "Instagram": 4.83,
+    "Twitter": 3.66
    },
    "top_web_platform": "Facebook"
   },
   "ERI": {
    "shares": {
-    "Facebook": 33.33,
-    "reddit": 30.0,
+    "reddit": 36.06,
+    "Facebook": 21.21,
     "Instagram": 13.33,
-    "Tumblr": 8.33,
+    "Tumblr": 11.36,
     "Twitter": 8.33,
     "Pinterest": 6.67
    },
-   "top_web_platform": "Facebook"
+   "top_web_platform": "reddit"
   },
   "ESP": {
    "shares": {
-    "Facebook": 88.43,
-    "Instagram": 6.0,
-    "Twitter": 2.37,
-    "YouTube": 1.42,
-    "Pinterest": 0.66,
-    "LinkedIn": 0.5
+    "Facebook": 89.03,
+    "Instagram": 5.19,
+    "Twitter": 2.63,
+    "YouTube": 1.16,
+    "Pinterest": 0.78,
+    "LinkedIn": 0.59
    },
    "top_web_platform": "Facebook"
   },
   "EST": {
    "shares": {
-    "Facebook": 75.04,
-    "YouTube": 9.63,
-    "Twitter": 5.72,
-    "Instagram": 4.17,
-    "reddit": 2.88,
-    "Pinterest": 1.95
+    "Facebook": 73.27,
+    "YouTube": 9.24,
+    "Twitter": 6.36,
+    "Instagram": 4.38,
+    "reddit": 3.38,
+    "Pinterest": 2.26
    },
    "top_web_platform": "Facebook"
   },
   "ETH": {
    "shares": {
-    "Facebook": 50.63,
-    "YouTube": 20.6,
-    "Twitter": 8.32,
-    "Instagram": 6.59,
-    "Pinterest": 6.45,
-    "LinkedIn": 4.54
+    "Facebook": 53.69,
+    "YouTube": 16.8,
+    "Twitter": 11.56,
+    "Instagram": 5.83,
+    "Pinterest": 5.15,
+    "LinkedIn": 4.43
    },
    "top_web_platform": "Facebook"
   },
   "FIN": {
    "shares": {
-    "Facebook": 55.92,
-    "Twitter": 14.13,
-    "Instagram": 9.0,
-    "reddit": 7.26,
-    "Pinterest": 7.19,
-    "YouTube": 4.08
+    "Facebook": 52.81,
+    "Twitter": 16.17,
+    "reddit": 8.61,
+    "Instagram": 8.12,
+    "Pinterest": 7.94,
+    "YouTube": 4.02
    },
    "top_web_platform": "Facebook"
   },
   "FJI": {
    "shares": {
-    "Facebook": 69.8,
-    "Instagram": 8.57,
-    "Pinterest": 7.91,
-    "Twitter": 7.8,
-    "reddit": 2.88,
+    "Facebook": 68.51,
+    "Instagram": 9.24,
+    "Twitter": 8.76,
+    "Pinterest": 7.9,
+    "reddit": 2.61,
     "YouTube": 2.57
    },
    "top_web_platform": "Facebook"
   },
   "FRA": {
    "shares": {
-    "Facebook": 72.73,
-    "Instagram": 8.86,
-    "Pinterest": 6.61,
-    "YouTube": 4.32,
-    "Twitter": 4.03,
-    "reddit": 2.1
+    "Facebook": 71.58,
+    "Instagram": 7.97,
+    "Pinterest": 7.5,
+    "Twitter": 5.8,
+    "YouTube": 3.42,
+    "reddit": 2.16
    },
    "top_web_platform": "Facebook"
   },
   "FSM": {
    "shares": {
-    "Facebook": 71.54,
-    "Pinterest": 10.09,
-    "Twitter": 10.07,
-    "Instagram": 5.09,
-    "YouTube": 2.94
+    "Facebook": 76.86,
+    "Twitter": 9.42,
+    "Pinterest": 7.88,
+    "YouTube": 3.0,
+    "Instagram": 2.65
    },
    "top_web_platform": "Facebook"
   },
   "GAB": {
    "shares": {
-    "Facebook": 35.51,
-    "YouTube": 22.73,
-    "Twitter": 20.96,
-    "Pinterest": 8.44,
-    "reddit": 8.42,
-    "LinkedIn": 1.99
+    "Facebook": 44.37,
+    "Twitter": 23.26,
+    "YouTube": 15.38,
+    "Pinterest": 7.62,
+    "reddit": 5.48,
+    "LinkedIn": 2.33
    },
    "top_web_platform": "Facebook"
   },
   "GBR": {
    "shares": {
-    "Facebook": 69.88,
-    "Twitter": 10.1,
-    "Instagram": 7.49,
-    "YouTube": 3.49,
-    "Pinterest": 3.48,
-    "reddit": 3.47
+    "Facebook": 68.17,
+    "Twitter": 11.0,
+    "Instagram": 7.45,
+    "reddit": 4.26,
+    "Pinterest": 3.64,
+    "YouTube": 3.36
    },
    "top_web_platform": "Facebook"
   },
   "GEO": {
    "shares": {
-    "Facebook": 87.5,
-    "Instagram": 3.32,
-    "Twitter": 2.67,
-    "YouTube": 2.51,
-    "reddit": 1.44,
-    "Pinterest": 1.3
+    "Facebook": 92.26,
+    "Instagram": 2.08,
+    "Twitter": 1.81,
+    "YouTube": 1.5,
+    "reddit": 0.86,
+    "Pinterest": 0.81
    },
    "top_web_platform": "Facebook"
   },
   "GHA": {
    "shares": {
-    "Facebook": 63.14,
-    "YouTube": 14.61,
-    "Instagram": 10.12,
-    "Pinterest": 4.94,
-    "Twitter": 3.9,
-    "LinkedIn": 1.77
+    "Facebook": 77.45,
+    "YouTube": 8.81,
+    "Instagram": 6.23,
+    "Pinterest": 3.01,
+    "Twitter": 2.56,
+    "LinkedIn": 1.08
    },
    "top_web_platform": "Facebook"
   },
   "GIN": {
    "shares": {
-    "Facebook": 72.59,
-    "Twitter": 23.6,
-    "YouTube": 1.91,
-    "Instagram": 0.86
+    "Facebook": 79.71,
+    "Twitter": 16.64,
+    "YouTube": 1.96,
+    "Instagram": 0.74
    },
    "top_web_platform": "Facebook"
   },
   "GMB": {
    "shares": {
-    "Facebook": 54.9,
-    "YouTube": 18.74,
-    "Instagram": 14.72,
-    "Twitter": 6.68,
-    "Pinterest": 2.11,
-    "LinkedIn": 1.51
+    "Facebook": 55.54,
+    "YouTube": 19.87,
+    "Instagram": 11.99,
+    "Twitter": 8.44,
+    "Pinterest": 1.85,
+    "LinkedIn": 1.46
    },
    "top_web_platform": "Facebook"
   },
   "GNB": {
    "shares": {
-    "Facebook": 74.55,
-    "YouTube": 10.89,
-    "Twitter": 5.83,
-    "Instagram": 3.14,
-    "Pinterest": 2.41,
-    "LinkedIn": 1.84
+    "Facebook": 84.77,
+    "YouTube": 6.75,
+    "Twitter": 3.6,
+    "Pinterest": 1.77,
+    "Instagram": 1.33,
+    "LinkedIn": 0.91
    },
    "top_web_platform": "Facebook"
   },
   "GNQ": {
    "shares": {
-    "Facebook": 61.1,
-    "Instagram": 12.96,
-    "YouTube": 11.86,
-    "Twitter": 5.71,
-    "reddit": 4.33,
-    "Pinterest": 2.34
+    "Facebook": 44.76,
+    "Instagram": 22.84,
+    "YouTube": 14.27,
+    "Twitter": 7.36,
+    "reddit": 5.98,
+    "Pinterest": 3.71
    },
    "top_web_platform": "Facebook"
   },
   "GRC": {
    "shares": {
-    "Facebook": 92.36,
-    "Instagram": 2.13,
-    "Twitter": 1.9,
-    "YouTube": 1.42,
-    "Pinterest": 1.39
+    "Facebook": 90.25,
+    "Instagram": 2.68,
+    "Twitter": 2.47,
+    "Pinterest": 1.93,
+    "YouTube": 1.77,
+    "reddit": 0.53
    },
    "top_web_platform": "Facebook"
   },
   "GRD": {
    "shares": {
-    "Facebook": 75.85,
-    "Instagram": 9.84,
-    "Pinterest": 4.85,
-    "Twitter": 3.94,
-    "YouTube": 2.47,
-    "LinkedIn": 1.44
+    "Facebook": 74.43,
+    "Instagram": 8.96,
+    "Pinterest": 5.33,
+    "Twitter": 4.08,
+    "YouTube": 2.95,
+    "LinkedIn": 2.19
    },
    "top_web_platform": "Facebook"
   },
   "GTM": {
    "shares": {
-    "Facebook": 51.31,
-    "YouTube": 38.62,
-    "Instagram": 4.42,
-    "Pinterest": 2.67,
-    "Twitter": 1.53,
-    "reddit": 0.72
+    "Facebook": 46.97,
+    "YouTube": 43.47,
+    "Instagram": 3.73,
+    "Pinterest": 2.54,
+    "Twitter": 1.82,
+    "LinkedIn": 0.8
    },
    "top_web_platform": "Facebook"
   },
   "GUY": {
    "shares": {
-    "Facebook": 86.86,
-    "Pinterest": 5.49,
-    "Instagram": 3.27,
-    "YouTube": 1.31,
-    "Twitter": 1.24,
-    "reddit": 0.92
+    "Facebook": 85.51,
+    "Pinterest": 5.73,
+    "Instagram": 3.22,
+    "Twitter": 2.03,
+    "YouTube": 1.4,
+    "reddit": 1.06
    },
    "top_web_platform": "Facebook"
   },
   "HND": {
    "shares": {
-    "Facebook": 72.57,
-    "YouTube": 20.48,
-    "Instagram": 2.81,
-    "Pinterest": 1.99,
-    "Twitter": 0.84,
-    "LinkedIn": 0.77
+    "Facebook": 58.9,
+    "YouTube": 36.05,
+    "Instagram": 2.09,
+    "Pinterest": 1.34,
+    "LinkedIn": 0.79,
+    "Twitter": 0.53
    },
    "top_web_platform": "Facebook"
   },
   "HRV": {
    "shares": {
-    "Facebook": 60.97,
-    "YouTube": 21.25,
-    "Instagram": 5.64,
-    "Twitter": 5.22,
-    "Pinterest": 3.08,
-    "reddit": 2.96
+    "Facebook": 65.63,
+    "YouTube": 16.22,
+    "Twitter": 5.79,
+    "Instagram": 4.96,
+    "Pinterest": 3.43,
+    "reddit": 3.03
    },
    "top_web_platform": "Facebook"
   },
   "HTI": {
    "shares": {
-    "Facebook": 59.83,
-    "Twitter": 27.11,
-    "YouTube": 5.9,
-    "Pinterest": 3.49,
-    "Instagram": 2.22,
-    "LinkedIn": 1.01
+    "Facebook": 64.48,
+    "Twitter": 21.78,
+    "YouTube": 6.56,
+    "Pinterest": 2.98,
+    "Instagram": 2.36,
+    "LinkedIn": 1.37
    },
    "top_web_platform": "Facebook"
   },
   "HUN": {
    "shares": {
-    "Facebook": 93.23,
-    "YouTube": 4.0,
-    "Instagram": 0.9,
-    "Pinterest": 0.81,
-    "Twitter": 0.53
+    "Facebook": 91.46,
+    "YouTube": 5.46,
+    "Pinterest": 0.94,
+    "Instagram": 0.89,
+    "Twitter": 0.66
    },
    "top_web_platform": "Facebook"
   },
   "IDN": {
    "shares": {
-    "YouTube": 57.72,
-    "Facebook": 29.92,
-    "Instagram": 9.23,
-    "Twitter": 1.43,
-    "Pinterest": 1.02
+    "Facebook": 44.53,
+    "YouTube": 43.4,
+    "Instagram": 8.99,
+    "Twitter": 1.53,
+    "Pinterest": 0.92
    },
-   "top_web_platform": "YouTube"
+   "top_web_platform": "Facebook"
   },
   "IND": {
    "shares": {
-    "Instagram": 35.45,
-    "Facebook": 31.44,
-    "YouTube": 20.24,
-    "Twitter": 8.46,
-    "LinkedIn": 1.99,
-    "Pinterest": 1.18
+    "Facebook": 35.0,
+    "YouTube": 26.57,
+    "Instagram": 25.64,
+    "Twitter": 8.58,
+    "LinkedIn": 1.98,
+    "reddit": 1.07
    },
-   "top_web_platform": "Instagram"
+   "top_web_platform": "Facebook"
   },
   "IRL": {
    "shares": {
-    "Facebook": 89.48,
-    "Instagram": 5.24,
-    "Twitter": 2.29,
-    "YouTube": 1.87,
-    "reddit": 0.63
+    "Facebook": 90.88,
+    "Instagram": 4.56,
+    "Twitter": 2.4,
+    "YouTube": 1.01,
+    "reddit": 0.66
    },
    "top_web_platform": "Facebook"
   },
   "IRN": {
    "shares": {
-    "Instagram": 34.98,
-    "Pinterest": 16.67,
-    "YouTube": 15.78,
-    "LinkedIn": 13.51,
-    "Twitter": 7.89,
-    "Facebook": 6.83
+    "Instagram": 37.58,
+    "YouTube": 14.83,
+    "Pinterest": 14.04,
+    "LinkedIn": 13.21,
+    "Facebook": 7.52,
+    "Twitter": 7.15
    },
    "top_web_platform": "Instagram"
   },
   "IRQ": {
    "shares": {
-    "YouTube": 44.87,
-    "Facebook": 38.71,
-    "Instagram": 10.36,
-    "Twitter": 5.03,
+    "Facebook": 43.44,
+    "YouTube": 40.35,
+    "Instagram": 9.91,
+    "Twitter": 5.27,
     "Pinterest": 0.6
    },
-   "top_web_platform": "YouTube"
+   "top_web_platform": "Facebook"
   },
   "ISL": {
    "shares": {
-    "Facebook": 65.05,
-    "Twitter": 13.09,
-    "Pinterest": 8.53,
-    "reddit": 5.09,
-    "Instagram": 4.36,
-    "YouTube": 2.06
+    "Facebook": 59.23,
+    "Twitter": 15.71,
+    "Pinterest": 10.57,
+    "reddit": 6.88,
+    "Instagram": 3.96,
+    "YouTube": 1.97
    },
    "top_web_platform": "Facebook"
   },
   "ISR": {
    "shares": {
-    "Facebook": 66.66,
-    "YouTube": 13.29,
-    "Twitter": 7.42,
-    "Instagram": 7.14,
-    "Pinterest": 3.2,
-    "reddit": 1.55
+    "Facebook": 60.81,
+    "YouTube": 16.04,
+    "Twitter": 9.16,
+    "Instagram": 7.89,
+    "Pinterest": 3.64,
+    "reddit": 1.66
    },
    "top_web_platform": "Facebook"
   },
   "ITA": {
    "shares": {
-    "Facebook": 76.06,
-    "Instagram": 9.01,
-    "YouTube": 4.9,
-    "Pinterest": 3.83,
-    "Twitter": 3.57,
-    "reddit": 1.69
+    "Facebook": 77.87,
+    "Instagram": 8.74,
+    "Pinterest": 4.0,
+    "Twitter": 3.75,
+    "YouTube": 3.29,
+    "reddit": 1.5
    },
    "top_web_platform": "Facebook"
   },
   "JAM": {
    "shares": {
-    "Facebook": 70.85,
-    "Instagram": 16.79,
-    "YouTube": 3.72,
-    "LinkedIn": 3.08,
-    "Pinterest": 2.71,
-    "Twitter": 2.11
+    "Facebook": 59.02,
+    "Instagram": 20.49,
+    "YouTube": 6.15,
+    "LinkedIn": 4.89,
+    "Pinterest": 4.63,
+    "Twitter": 3.64
    },
    "top_web_platform": "Facebook"
   },
   "JOR": {
    "shares": {
-    "Facebook": 98.64,
-    "YouTube": 0.68
+    "Facebook": 98.67,
+    "YouTube": 0.57
    },
    "top_web_platform": "Facebook"
   },
   "JPN": {
    "shares": {
-    "Twitter": 54.32,
-    "Instagram": 20.48,
-    "Facebook": 12.61,
-    "Pinterest": 4.4,
-    "YouTube": 4.07,
-    "reddit": 1.84
+    "Twitter": 55.87,
+    "Instagram": 19.92,
+    "Facebook": 13.91,
+    "Pinterest": 3.53,
+    "YouTube": 2.9,
+    "reddit": 1.85
    },
    "top_web_platform": "Twitter"
   },
   "KAZ": {
    "shares": {
-    "YouTube": 22.52,
-    "Instagram": 22.32,
-    "Facebook": 20.34,
-    "Twitter": 15.17,
-    "reddit": 9.36,
-    "Pinterest": 6.72
+    "YouTube": 21.36,
+    "Facebook": 20.83,
+    "Instagram": 20.82,
+    "Twitter": 16.95,
+    "reddit": 9.21,
+    "Pinterest": 7.3
    },
    "top_web_platform": "YouTube"
   },
   "KEN": {
    "shares": {
-    "Facebook": 31.25,
-    "YouTube": 22.1,
-    "Instagram": 21.33,
-    "Twitter": 12.29,
-    "Pinterest": 5.85,
-    "LinkedIn": 4.58
+    "Facebook": 30.62,
+    "YouTube": 23.09,
+    "Instagram": 16.74,
+    "Twitter": 16.66,
+    "Pinterest": 5.27,
+    "LinkedIn": 5.14
    },
    "top_web_platform": "Facebook"
   },
   "KGZ": {
    "shares": {
-    "Instagram": 29.91,
-    "Facebook": 27.2,
-    "Twitter": 15.24,
-    "YouTube": 9.13,
-    "Pinterest": 7.8,
-    "reddit": 7.42
+    "Instagram": 36.99,
+    "Facebook": 23.21,
+    "Twitter": 15.22,
+    "YouTube": 7.81,
+    "Pinterest": 7.55,
+    "reddit": 6.6
    },
    "top_web_platform": "Instagram"
   },
   "KHM": {
    "shares": {
-    "Facebook": 57.74,
-    "YouTube": 27.41,
-    "Pinterest": 5.95,
-    "Twitter": 3.95,
-    "Instagram": 2.79,
-    "reddit": 1.52
+    "Facebook": 58.25,
+    "YouTube": 22.19,
+    "Pinterest": 7.08,
+    "Twitter": 6.76,
+    "Instagram": 2.75,
+    "reddit": 2.35
    },
    "top_web_platform": "Facebook"
   },
   "KIR": {
    "shares": {
-    "Facebook": 87.09,
-    "Pinterest": 5.82,
-    "reddit": 3.58,
-    "YouTube": 2.69,
-    "Instagram": 0.82
+    "Facebook": 89.5,
+    "Pinterest": 4.45,
+    "reddit": 2.97,
+    "YouTube": 2.56,
+    "Instagram": 0.52
    },
    "top_web_platform": "Facebook"
   },
   "KNA": {
    "shares": {
-    "Facebook": 82.74,
-    "Instagram": 14.86,
-    "Pinterest": 0.79,
-    "YouTube": 0.64
+    "Facebook": 83.84,
+    "Instagram": 13.43,
+    "Pinterest": 0.94,
+    "YouTube": 0.59,
+    "Twitter": 0.57
    },
    "top_web_platform": "Facebook"
   },
   "KOR": {
    "shares": {
-    "YouTube": 74.22,
-    "Facebook": 8.61,
-    "Twitter": 7.73,
-    "Instagram": 4.56,
-    "Pinterest": 2.49,
-    "reddit": 1.8
+    "YouTube": 74.25,
+    "Facebook": 9.23,
+    "Twitter": 7.6,
+    "Instagram": 4.07,
+    "Pinterest": 2.42,
+    "reddit": 1.7
    },
    "top_web_platform": "YouTube"
   },
   "KWT": {
    "shares": {
-    "Facebook": 64.63,
-    "Instagram": 19.11,
-    "YouTube": 7.3,
-    "Twitter": 5.22,
-    "Pinterest": 1.53,
-    "LinkedIn": 1.24
+    "Facebook": 70.22,
+    "Instagram": 17.1,
+    "YouTube": 5.71,
+    "Twitter": 4.44,
+    "Pinterest": 1.54,
+    "reddit": 0.62
    },
    "top_web_platform": "Facebook"
   },
   "LAO": {
    "shares": {
-    "YouTube": 82.55,
-    "Facebook": 12.69,
-    "Twitter": 3.05,
-    "Pinterest": 0.75,
-    "Instagram": 0.62
+    "YouTube": 68.56,
+    "Facebook": 27.64,
+    "Twitter": 2.57,
+    "Pinterest": 0.52
    },
    "top_web_platform": "YouTube"
   },
   "LBN": {
    "shares": {
-    "Facebook": 49.12,
-    "YouTube": 20.07,
-    "Instagram": 18.79,
-    "Twitter": 8.77,
-    "Pinterest": 1.93,
-    "reddit": 0.79
+    "Facebook": 54.35,
+    "Instagram": 17.63,
+    "YouTube": 14.15,
+    "Twitter": 10.5,
+    "Pinterest": 2.08,
+    "reddit": 0.76
    },
    "top_web_platform": "Facebook"
   },
   "LBR": {
    "shares": {
-    "Facebook": 75.05,
-    "YouTube": 10.4,
-    "Twitter": 5.34,
-    "Pinterest": 3.68,
-    "Instagram": 3.3,
-    "reddit": 1.24
+    "Facebook": 82.81,
+    "YouTube": 7.72,
+    "Twitter": 2.9,
+    "Pinterest": 2.61,
+    "Instagram": 1.79,
+    "reddit": 1.23
    },
    "top_web_platform": "Facebook"
   },
   "LBY": {
    "shares": {
-    "Facebook": 48.89,
-    "YouTube": 39.58,
-    "Twitter": 6.43,
-    "Instagram": 4.49
+    "Facebook": 65.12,
+    "YouTube": 23.84,
+    "Twitter": 5.94,
+    "Instagram": 4.31
    },
    "top_web_platform": "Facebook"
   },
   "LCA": {
    "shares": {
-    "Facebook": 79.62,
-    "Instagram": 12.6,
-    "Pinterest": 3.38,
-    "YouTube": 1.27,
-    "LinkedIn": 1.23,
-    "Twitter": 1.18
+    "Facebook": 78.46,
+    "Instagram": 13.73,
+    "Pinterest": 3.6,
+    "LinkedIn": 1.41,
+    "Twitter": 1.12,
+    "YouTube": 0.94
    },
    "top_web_platform": "Facebook"
   },
   "LIE": {
    "shares": {
-    "Facebook": 41.88,
-    "Twitter": 20.94,
-    "Pinterest": 19.38,
-    "Instagram": 8.49,
-    "reddit": 4.35,
-    "YouTube": 2.84
+    "Facebook": 36.7,
+    "Twitter": 32.68,
+    "Pinterest": 15.83,
+    "reddit": 4.93,
+    "Instagram": 4.38,
+    "YouTube": 3.06
    },
    "top_web_platform": "Facebook"
   },
   "LKA": {
    "shares": {
-    "Facebook": 80.58,
-    "YouTube": 15.64,
-    "Pinterest": 1.33,
-    "Twitter": 0.9,
-    "Instagram": 0.58,
-    "reddit": 0.58
+    "Facebook": 87.53,
+    "YouTube": 9.7,
+    "Pinterest": 0.96,
+    "Twitter": 0.69
    },
    "top_web_platform": "Facebook"
   },
   "LSO": {
    "shares": {
-    "Facebook": 57.31,
-    "YouTube": 12.29,
-    "Instagram": 10.57,
-    "Pinterest": 9.44,
-    "LinkedIn": 4.52,
-    "Twitter": 3.76
+    "Facebook": 58.08,
+    "YouTube": 10.78,
+    "Pinterest": 10.26,
+    "Instagram": 8.58,
+    "LinkedIn": 6.17,
+    "Twitter": 4.15
    },
    "top_web_platform": "Facebook"
   },
   "LTU": {
    "shares": {
-    "Facebook": 86.38,
-    "Twitter": 3.75,
-    "Pinterest": 2.64,
-    "YouTube": 2.35,
-    "reddit": 2.23,
-    "Instagram": 1.93
+    "Facebook": 81.42,
+    "Twitter": 5.52,
+    "Pinterest": 3.91,
+    "YouTube": 3.16,
+    "reddit": 2.86,
+    "Instagram": 2.36
    },
    "top_web_platform": "Facebook"
   },
   "LUX": {
    "shares": {
-    "Facebook": 60.96,
-    "Twitter": 18.9,
-    "Instagram": 5.92,
-    "Pinterest": 5.52,
-    "reddit": 3.65,
-    "YouTube": 2.6
+    "Facebook": 55.58,
+    "Twitter": 23.17,
+    "Pinterest": 6.39,
+    "Instagram": 5.12,
+    "reddit": 4.72,
+    "YouTube": 2.41
    },
    "top_web_platform": "Facebook"
   },
   "LVA": {
    "shares": {
-    "Facebook": 73.25,
-    "Twitter": 15.19,
-    "Instagram": 3.23,
-    "YouTube": 2.64,
-    "Pinterest": 2.57,
-    "reddit": 2.17
+    "Facebook": 70.66,
+    "Twitter": 17.57,
+    "Pinterest": 3.36,
+    "Instagram": 3.24,
+    "reddit": 2.26,
+    "YouTube": 1.95
    },
    "top_web_platform": "Facebook"
   },
   "MAR": {
    "shares": {
-    "Facebook": 40.12,
-    "YouTube": 34.91,
-    "Instagram": 20.99,
-    "Twitter": 2.5,
-    "Pinterest": 0.74
+    "Facebook": 47.41,
+    "YouTube": 26.76,
+    "Instagram": 20.53,
+    "Twitter": 3.66,
+    "Pinterest": 0.83
    },
    "top_web_platform": "Facebook"
   },
   "MCO": {
    "shares": {
-    "Twitter": 56.59,
-    "Facebook": 28.31,
-    "Instagram": 6.61,
-    "Pinterest": 5.58,
-    "reddit": 1.34,
-    "YouTube": 0.95
+    "Twitter": 61.8,
+    "Facebook": 25.99,
+    "Instagram": 4.68,
+    "Pinterest": 4.64,
+    "reddit": 1.47,
+    "YouTube": 0.79
    },
    "top_web_platform": "Twitter"
   },
   "MDA": {
    "shares": {
-    "Facebook": 88.35,
-    "Instagram": 3.18,
-    "YouTube": 2.77,
-    "Pinterest": 1.94,
-    "Twitter": 1.74,
-    "reddit": 1.39
+    "Facebook": 85.33,
+    "Twitter": 3.48,
+    "Instagram": 3.11,
+    "Pinterest": 2.94,
+    "YouTube": 2.63,
+    "reddit": 1.61
    },
    "top_web_platform": "Facebook"
   },
   "MDG": {
    "shares": {
-    "Facebook": 69.2,
-    "Twitter": 25.23,
-    "YouTube": 3.07,
-    "Pinterest": 0.93,
-    "reddit": 0.56
+    "Facebook": 72.13,
+    "Twitter": 21.41,
+    "YouTube": 3.38,
+    "Pinterest": 1.12,
+    "reddit": 0.7,
+    "LinkedIn": 0.69
    },
    "top_web_platform": "Facebook"
   },
   "MDV": {
    "shares": {
-    "Facebook": 75.2,
-    "Pinterest": 6.66,
-    "Instagram": 6.42,
-    "Twitter": 4.27,
-    "YouTube": 3.52,
-    "reddit": 2.56
+    "Facebook": 77.6,
+    "Pinterest": 5.87,
+    "Instagram": 5.79,
+    "Twitter": 4.54,
+    "YouTube": 2.38,
+    "reddit": 2.32
    },
    "top_web_platform": "Facebook"
   },
   "MEX": {
    "shares": {
-    "Facebook": 76.09,
-    "YouTube": 12.36,
-    "Instagram": 5.14,
-    "Twitter": 3.37,
-    "Pinterest": 1.59,
-    "reddit": 0.95
+    "Facebook": 80.61,
+    "YouTube": 9.05,
+    "Instagram": 4.18,
+    "Twitter": 3.23,
+    "Pinterest": 1.63,
+    "reddit": 0.83
    },
    "top_web_platform": "Facebook"
   },
   "MHL": {
    "shares": {
-    "Facebook": 61.03,
-    "Pinterest": 12.09,
-    "Twitter": 10.89,
-    "YouTube": 7.72,
-    "Instagram": 5.28,
-    "reddit": 2.53
+    "Facebook": 52.79,
+    "Pinterest": 17.34,
+    "Twitter": 15.17,
+    "YouTube": 7.04,
+    "Instagram": 5.24,
+    "reddit": 1.42
    },
    "top_web_platform": "Facebook"
   },
   "MKD": {
    "shares": {
-    "Facebook": 96.58,
-    "Instagram": 2.04,
-    "Twitter": 0.61
+    "Facebook": 96.29,
+    "Instagram": 2.29,
+    "Twitter": 0.63
    },
    "top_web_platform": "Facebook"
   },
   "MLI": {
    "shares": {
-    "Facebook": 77.43,
-    "Twitter": 16.39,
-    "YouTube": 3.83,
-    "Instagram": 1.27,
-    "Pinterest": 0.54
+    "Facebook": 77.15,
+    "Twitter": 15.69,
+    "YouTube": 4.99,
+    "Instagram": 0.95,
+    "Pinterest": 0.64
    },
    "top_web_platform": "Facebook"
   },
   "MLT": {
    "shares": {
-    "Facebook": 75.85,
-    "Instagram": 6.25,
-    "Twitter": 4.91,
-    "Pinterest": 4.84,
-    "LinkedIn": 3.93,
-    "YouTube": 2.15
+    "Facebook": 72.25,
+    "Instagram": 7.17,
+    "Twitter": 6.67,
+    "LinkedIn": 4.94,
+    "Pinterest": 4.93,
+    "YouTube": 2.2
    },
    "top_web_platform": "Facebook"
   },
   "MMR": {
    "shares": {
-    "Facebook": 70.81,
-    "YouTube": 11.52,
-    "Pinterest": 11.4,
-    "reddit": 2.17,
-    "Twitter": 2.05,
-    "LinkedIn": 0.96
+    "Facebook": 57.52,
+    "YouTube": 17.23,
+    "Pinterest": 15.84,
+    "Twitter": 3.79,
+    "reddit": 3.22,
+    "LinkedIn": 1.88
    },
    "top_web_platform": "Facebook"
   },
   "MNE": {
    "shares": {
-    "Facebook": 75.6,
-    "Instagram": 9.03,
-    "Twitter": 6.58,
-    "YouTube": 3.59,
-    "Pinterest": 2.2,
-    "reddit": 1.99
+    "Facebook": 71.88,
+    "Instagram": 9.47,
+    "Twitter": 7.99,
+    "YouTube": 4.41,
+    "Pinterest": 2.87,
+    "reddit": 2.39
    },
    "top_web_platform": "Facebook"
   },
   "MNG": {
    "shares": {
-    "Facebook": 53.27,
-    "Twitter": 14.02,
-    "Pinterest": 10.62,
-    "YouTube": 9.68,
-    "Instagram": 6.73,
-    "reddit": 5.27
+    "Facebook": 56.51,
+    "Twitter": 12.93,
+    "Pinterest": 12.38,
+    "YouTube": 8.26,
+    "Instagram": 5.85,
+    "reddit": 3.61
    },
    "top_web_platform": "Facebook"
   },
   "MOZ": {
    "shares": {
-    "Facebook": 81.7,
-    "YouTube": 7.49,
-    "Pinterest": 3.92,
-    "Instagram": 2.74,
-    "Twitter": 2.06,
-    "LinkedIn": 1.02
+    "Facebook": 75.33,
+    "YouTube": 9.53,
+    "Pinterest": 4.75,
+    "Twitter": 3.81,
+    "Instagram": 3.67,
+    "LinkedIn": 1.38
    },
    "top_web_platform": "Facebook"
   },
   "MRT": {
    "shares": {
-    "Facebook": 43.62,
-    "YouTube": 38.6,
-    "Twitter": 10.96,
-    "Instagram": 5.97,
-    "Pinterest": 0.51
+    "Facebook": 51.55,
+    "YouTube": 31.59,
+    "Twitter": 10.91,
+    "Instagram": 5.21
    },
    "top_web_platform": "Facebook"
   },
   "MUS": {
    "shares": {
-    "Facebook": 81.75,
-    "Twitter": 4.3,
-    "Pinterest": 4.04,
-    "reddit": 2.91,
-    "YouTube": 2.53,
-    "Instagram": 2.51
+    "Facebook": 80.75,
+    "Twitter": 5.34,
+    "Pinterest": 4.05,
+    "reddit": 2.79,
+    "YouTube": 2.75,
+    "Instagram": 2.37
    },
    "top_web_platform": "Facebook"
   },
   "MWI": {
    "shares": {
-    "Facebook": 75.21,
-    "YouTube": 6.72,
-    "Pinterest": 5.1,
-    "Instagram": 4.57,
-    "Twitter": 4.08,
-    "reddit": 2.22
+    "Facebook": 81.59,
+    "YouTube": 5.03,
+    "Pinterest": 4.06,
+    "Twitter": 3.19,
+    "Instagram": 2.75,
+    "reddit": 1.86
    },
    "top_web_platform": "Facebook"
   },
   "MYS": {
    "shares": {
-    "Facebook": 77.11,
-    "YouTube": 10.19,
-    "Instagram": 3.79,
-    "Twitter": 3.43,
-    "Pinterest": 3.05,
-    "reddit": 1.74
+    "Facebook": 78.53,
+    "YouTube": 6.93,
+    "Twitter": 4.24,
+    "Instagram": 4.2,
+    "Pinterest": 3.3,
+    "reddit": 1.93
    },
    "top_web_platform": "Facebook"
   },
   "NAM": {
    "shares": {
-    "Facebook": 72.73,
-    "Pinterest": 9.52,
-    "Instagram": 6.8,
-    "Twitter": 3.98,
-    "YouTube": 3.96,
-    "reddit": 1.5
+    "Facebook": 68.07,
+    "Pinterest": 11.37,
+    "Instagram": 6.48,
+    "Twitter": 5.55,
+    "YouTube": 5.17,
+    "reddit": 1.62
    },
    "top_web_platform": "Facebook"
   },
   "NER": {
    "shares": {
-    "Facebook": 76.66,
-    "Twitter": 18.03,
-    "YouTube": 3.45,
-    "Instagram": 0.96
+    "Facebook": 80.54,
+    "Twitter": 14.35,
+    "YouTube": 3.27,
+    "Instagram": 0.93
    },
    "top_web_platform": "Facebook"
   },
   "NGA": {
    "shares": {
-    "Facebook": 85.17,
-    "Instagram": 4.86,
-    "YouTube": 3.88,
-    "Twitter": 3.42,
-    "Pinterest": 1.15,
-    "LinkedIn": 1.04
+    "Facebook": 85.04,
+    "Instagram": 4.69,
+    "Twitter": 3.92,
+    "YouTube": 3.67,
+    "Pinterest": 1.09,
+    "LinkedIn": 1.06
    },
    "top_web_platform": "Facebook"
   },
   "NIC": {
    "shares": {
-    "Facebook": 60.75,
-    "YouTube": 20.52,
-    "Instagram": 5.52,
-    "LinkedIn": 3.89,
-    "Twitter": 3.74,
-    "reddit": 2.84
+    "Facebook": 63.81,
+    "YouTube": 19.42,
+    "LinkedIn": 4.93,
+    "Instagram": 4.22,
+    "Twitter": 3.47,
+    "Pinterest": 2.23
    },
    "top_web_platform": "Facebook"
   },
   "NLD": {
    "shares": {
-    "Facebook": 74.05,
-    "Instagram": 8.65,
-    "Twitter": 6.54,
-    "Pinterest": 4.65,
-    "reddit": 2.49,
-    "YouTube": 2.39
+    "Facebook": 72.02,
+    "Instagram": 8.43,
+    "Twitter": 7.78,
+    "Pinterest": 5.05,
+    "reddit": 3.35,
+    "YouTube": 2.14
    },
    "top_web_platform": "Facebook"
   },
   "NOR": {
    "shares": {
-    "Facebook": 72.36,
-    "Pinterest": 15.3,
-    "Twitter": 4.43,
-    "Instagram": 4.09,
-    "reddit": 1.99,
-    "YouTube": 1.17
+    "Facebook": 70.21,
+    "Pinterest": 16.74,
+    "Twitter": 5.16,
+    "Instagram": 3.94,
+    "reddit": 2.32,
+    "YouTube": 1.05
    },
    "top_web_platform": "Facebook"
   },
   "NPL": {
    "shares": {
-    "Facebook": 91.29,
-    "Twitter": 4.95,
-    "YouTube": 2.44,
-    "Instagram": 0.63
+    "Facebook": 91.75,
+    "Twitter": 5.05,
+    "YouTube": 1.85,
+    "Instagram": 0.68
    },
    "top_web_platform": "Facebook"
   },
   "NRU": {
    "shares": {
-    "Facebook": 74.86,
-    "Pinterest": 18.89,
-    "reddit": 2.78,
-    "Instagram": 2.43,
-    "YouTube": 1.04
+    "Facebook": 64.96,
+    "Pinterest": 18.37,
+    "reddit": 6.94,
+    "Instagram": 5.56,
+    "Twitter": 2.08,
+    "LinkedIn": 2.08
    },
    "top_web_platform": "Facebook"
   },
   "NZL": {
    "shares": {
-    "Facebook": 71.49,
-    "Pinterest": 7.83,
-    "Twitter": 5.99,
-    "Instagram": 4.9,
-    "reddit": 4.43,
-    "YouTube": 4.05
+    "Facebook": 69.18,
+    "Pinterest": 7.4,
+    "Twitter": 6.68,
+    "reddit": 5.71,
+    "YouTube": 5.04,
+    "Instagram": 4.79
    },
    "top_web_platform": "Facebook"
   },
   "OMN": {
    "shares": {
-    "Facebook": 54.04,
-    "Instagram": 20.69,
-    "YouTube": 18.72,
-    "Twitter": 4.31,
-    "Pinterest": 1.6
+    "Facebook": 59.08,
+    "Instagram": 21.64,
+    "YouTube": 12.97,
+    "Twitter": 4.11,
+    "Pinterest": 1.62
    },
    "top_web_platform": "Facebook"
   },
   "PAK": {
    "shares": {
-    "Facebook": 89.3,
-    "YouTube": 4.39,
-    "Twitter": 2.88,
-    "Instagram": 2.74
+    "Facebook": 87.78,
+    "YouTube": 4.5,
+    "Instagram": 4.09,
+    "Twitter": 2.99
    },
    "top_web_platform": "Facebook"
   },
   "PAN": {
    "shares": {
-    "Facebook": 38.76,
-    "Instagram": 31.41,
-    "Twitter": 10.82,
-    "Pinterest": 7.46,
-    "YouTube": 5.1,
-    "reddit": 3.12
+    "Facebook": 39.71,
+    "Instagram": 29.33,
+    "Twitter": 10.15,
+    "YouTube": 9.7,
+    "Pinterest": 5.53,
+    "LinkedIn": 2.76
    },
    "top_web_platform": "Facebook"
   },
   "PER": {
    "shares": {
-    "Facebook": 62.49,
-    "YouTube": 11.14,
-    "Instagram": 8.02,
-    "Pinterest": 7.82,
-    "Twitter": 4.75,
-    "reddit": 2.86
+    "Facebook": 62.39,
+    "YouTube": 11.0,
+    "Pinterest": 7.89,
+    "Instagram": 7.22,
+    "Twitter": 5.55,
+    "LinkedIn": 2.72
    },
    "top_web_platform": "Facebook"
   },
   "PHL": {
    "shares": {
-    "Facebook": 67.82,
-    "YouTube": 25.65,
-    "Pinterest": 1.8,
-    "Instagram": 1.7,
-    "reddit": 1.43,
-    "Twitter": 1.02
+    "Facebook": 80.64,
+    "YouTube": 11.52,
+    "Instagram": 2.17,
+    "Pinterest": 2.08,
+    "reddit": 1.57,
+    "Twitter": 1.12
    },
    "top_web_platform": "Facebook"
   },
   "PLW": {
    "shares": {
-    "Facebook": 61.04,
-    "Twitter": 11.03,
-    "YouTube": 10.03,
-    "Pinterest": 9.68,
-    "Instagram": 4.07,
-    "reddit": 2.22
+    "Facebook": 64.33,
+    "Twitter": 11.38,
+    "Pinterest": 8.25,
+    "YouTube": 6.88,
+    "reddit": 3.89,
+    "Instagram": 3.67
    },
    "top_web_platform": "Facebook"
   },
   "PNG": {
    "shares": {
-    "Facebook": 54.71,
-    "YouTube": 30.32,
-    "Pinterest": 6.69,
-    "reddit": 2.94,
-    "Twitter": 2.33,
-    "Instagram": 2.09
+    "Facebook": 52.46,
+    "YouTube": 31.74,
+    "Pinterest": 5.74,
+    "reddit": 3.82,
+    "Twitter": 3.29,
+    "Instagram": 1.96
    },
    "top_web_platform": "Facebook"
   },
   "POL": {
    "shares": {
-    "Facebook": 69.98,
-    "YouTube": 8.95,
-    "Instagram": 8.53,
-    "Twitter": 5.31,
-    "reddit": 3.08,
-    "Pinterest": 2.99
+    "Facebook": 74.99,
+    "YouTube": 7.7,
+    "Instagram": 6.27,
+    "Twitter": 5.01,
+    "Pinterest": 2.66,
+    "reddit": 2.45
    },
    "top_web_platform": "Facebook"
   },
@@ -1512,564 +1511,563 @@
   },
   "PRT": {
    "shares": {
-    "Facebook": 78.14,
-    "Instagram": 10.21,
-    "YouTube": 6.74,
-    "Twitter": 2.16,
-    "Pinterest": 1.12,
-    "reddit": 1.07
+    "Facebook": 79.98,
+    "Instagram": 8.59,
+    "YouTube": 5.8,
+    "Twitter": 2.63,
+    "Pinterest": 1.26,
+    "reddit": 1.14
    },
    "top_web_platform": "Facebook"
   },
   "PRY": {
    "shares": {
-    "Facebook": 89.51,
-    "Instagram": 3.86,
-    "YouTube": 2.54,
-    "Twitter": 1.78,
-    "Pinterest": 0.96,
-    "reddit": 0.68
+    "Facebook": 90.48,
+    "Instagram": 3.72,
+    "YouTube": 2.25,
+    "Twitter": 1.69,
+    "Pinterest": 0.74,
+    "LinkedIn": 0.55
    },
    "top_web_platform": "Facebook"
   },
   "PSE": {
    "shares": {
-    "Facebook": 96.03,
-    "YouTube": 2.03,
-    "Instagram": 1.42
+    "Facebook": 96.29,
+    "YouTube": 1.68,
+    "Instagram": 1.44
    },
    "top_web_platform": "Facebook"
   },
   "QAT": {
    "shares": {
-    "Facebook": 79.93,
-    "Instagram": 6.2,
-    "YouTube": 5.36,
-    "Twitter": 5.14,
-    "Pinterest": 2.12,
-    "reddit": 0.67
+    "Facebook": 79.31,
+    "Twitter": 6.19,
+    "Instagram": 5.83,
+    "YouTube": 4.95,
+    "Pinterest": 2.39,
+    "reddit": 0.75
    },
    "top_web_platform": "Facebook"
   },
   "ROU": {
    "shares": {
-    "Facebook": 84.54,
-    "YouTube": 9.47,
-    "Instagram": 4.55,
-    "Twitter": 0.8
+    "Facebook": 87.93,
+    "YouTube": 6.34,
+    "Instagram": 4.24,
+    "Twitter": 0.86
    },
    "top_web_platform": "Facebook"
   },
   "RUS": {
    "shares": {
-    "Pinterest": 26.33,
-    "reddit": 25.44,
-    "YouTube": 16.87,
-    "Facebook": 11.38,
-    "VKontakte": 10.47,
-    "Tumblr": 3.14
+    "Pinterest": 29.86,
+    "reddit": 21.3,
+    "Facebook": 17.98,
+    "YouTube": 14.95,
+    "VKontakte": 6.47,
+    "Instagram": 3.18
    },
    "top_web_platform": "Pinterest"
   },
   "RWA": {
    "shares": {
-    "Facebook": 40.41,
-    "Instagram": 18.35,
-    "YouTube": 15.04,
-    "Pinterest": 8.67,
-    "Twitter": 8.58,
-    "LinkedIn": 6.09
+    "Facebook": 38.74,
+    "Instagram": 17.72,
+    "YouTube": 12.95,
+    "Twitter": 12.44,
+    "Pinterest": 7.97,
+    "LinkedIn": 6.68
    },
    "top_web_platform": "Facebook"
   },
   "SAU": {
    "shares": {
-    "Facebook": 59.22,
-    "YouTube": 14.57,
-    "Instagram": 12.49,
-    "Twitter": 11.78,
-    "Pinterest": 0.87,
-    "reddit": 0.57
+    "Facebook": 55.79,
+    "YouTube": 21.5,
+    "Instagram": 11.45,
+    "Twitter": 9.52,
+    "Pinterest": 0.85
    },
    "top_web_platform": "Facebook"
   },
   "SDN": {
    "shares": {
-    "Twitter": 49.67,
-    "Facebook": 38.13,
-    "YouTube": 8.77,
-    "Instagram": 3.21
+    "Twitter": 46.78,
+    "Facebook": 40.7,
+    "YouTube": 9.23,
+    "Instagram": 3.05
    },
    "top_web_platform": "Twitter"
   },
   "SEN": {
    "shares": {
-    "Facebook": 55.49,
-    "YouTube": 34.56,
-    "Twitter": 5.52,
-    "Instagram": 2.39,
-    "Pinterest": 1.25
+    "Facebook": 57.23,
+    "YouTube": 25.37,
+    "Twitter": 12.69,
+    "Instagram": 2.29,
+    "Pinterest": 1.53
    },
    "top_web_platform": "Facebook"
   },
   "SGP": {
    "shares": {
-    "Facebook": 39.38,
-    "Twitter": 26.95,
-    "YouTube": 10.22,
-    "Instagram": 7.9,
-    "Pinterest": 6.23,
-    "reddit": 6.09
+    "Facebook": 39.19,
+    "Twitter": 31.63,
+    "YouTube": 7.79,
+    "Instagram": 7.35,
+    "reddit": 6.2,
+    "Pinterest": 5.15
    },
    "top_web_platform": "Facebook"
   },
   "SLB": {
    "shares": {
-    "Facebook": 75.76,
-    "YouTube": 10.87,
-    "Pinterest": 6.44,
-    "Instagram": 3.74,
-    "Twitter": 2.28,
-    "reddit": 0.75
+    "Facebook": 70.66,
+    "YouTube": 11.23,
+    "Pinterest": 9.34,
+    "reddit": 3.7,
+    "Twitter": 2.62,
+    "Instagram": 2.45
    },
    "top_web_platform": "Facebook"
   },
   "SLE": {
    "shares": {
-    "Facebook": 64.0,
-    "YouTube": 16.73,
-    "Pinterest": 6.31,
-    "Twitter": 6.25,
-    "Instagram": 3.56,
-    "LinkedIn": 1.83
+    "Facebook": 72.11,
+    "YouTube": 14.67,
+    "Twitter": 4.24,
+    "Instagram": 3.03,
+    "Pinterest": 2.94,
+    "reddit": 1.48
    },
    "top_web_platform": "Facebook"
   },
   "SLV": {
    "shares": {
-    "Facebook": 71.89,
-    "Instagram": 9.83,
-    "YouTube": 7.43,
-    "Twitter": 3.76,
-    "Pinterest": 3.19,
-    "LinkedIn": 1.95
+    "Facebook": 62.06,
+    "YouTube": 20.64,
+    "Instagram": 7.0,
+    "Twitter": 3.88,
+    "Pinterest": 2.86,
+    "LinkedIn": 2.28
    },
    "top_web_platform": "Facebook"
   },
   "SMR": {
    "shares": {
-    "Facebook": 72.07,
-    "Instagram": 12.17,
-    "Twitter": 5.79,
-    "Pinterest": 5.43,
-    "YouTube": 2.06,
-    "reddit": 1.38
+    "Facebook": 72.99,
+    "Instagram": 10.9,
+    "Pinterest": 7.01,
+    "Twitter": 4.17,
+    "YouTube": 2.43,
+    "reddit": 1.79
    },
    "top_web_platform": "Facebook"
   },
   "SOM": {
    "shares": {
-    "Facebook": 45.25,
-    "YouTube": 34.07,
-    "Twitter": 10.53,
-    "Instagram": 4.9,
-    "Pinterest": 2.57,
-    "reddit": 1.56
+    "Facebook": 50.25,
+    "YouTube": 28.27,
+    "Twitter": 14.0,
+    "Instagram": 3.34,
+    "Pinterest": 1.87,
+    "reddit": 1.18
    },
    "top_web_platform": "Facebook"
   },
   "SRB": {
    "shares": {
-    "Facebook": 75.07,
-    "Instagram": 15.91,
-    "Twitter": 4.24,
-    "YouTube": 1.64,
-    "Pinterest": 1.36,
-    "reddit": 1.23
+    "Facebook": 74.74,
+    "Instagram": 15.65,
+    "Twitter": 4.87,
+    "YouTube": 1.57,
+    "reddit": 1.41,
+    "Pinterest": 1.26
    },
    "top_web_platform": "Facebook"
   },
   "SSD": {
    "shares": {
-    "Facebook": 49.5,
-    "Twitter": 32.72,
-    "YouTube": 12.61,
-    "Instagram": 1.68,
-    "Pinterest": 1.3,
-    "LinkedIn": 1.14
+    "Facebook": 57.34,
+    "Twitter": 26.97,
+    "YouTube": 11.01,
+    "Instagram": 1.6,
+    "LinkedIn": 1.48,
+    "Pinterest": 1.16
    },
    "top_web_platform": "Facebook"
   },
   "STP": {
    "shares": {
-    "Facebook": 72.35,
-    "YouTube": 13.78,
-    "Instagram": 6.63,
-    "reddit": 3.4,
-    "Pinterest": 1.65,
-    "Twitter": 1.19
+    "Facebook": 69.39,
+    "YouTube": 15.31,
+    "Instagram": 7.37,
+    "reddit": 3.63,
+    "Pinterest": 1.93,
+    "LinkedIn": 1.27
    },
    "top_web_platform": "Facebook"
   },
   "SUR": {
    "shares": {
-    "Facebook": 83.87,
-    "Instagram": 5.48,
-    "Pinterest": 3.09,
-    "YouTube": 2.68,
-    "Twitter": 2.02,
-    "reddit": 1.52
+    "Facebook": 85.59,
+    "Instagram": 4.47,
+    "Pinterest": 2.87,
+    "YouTube": 2.27,
+    "Twitter": 1.97,
+    "reddit": 1.45
    },
    "top_web_platform": "Facebook"
   },
   "SVK": {
    "shares": {
-    "Facebook": 90.41,
-    "Instagram": 3.78,
-    "Pinterest": 1.68,
-    "Twitter": 1.24,
-    "YouTube": 1.15,
-    "LinkedIn": 0.83
+    "Facebook": 89.61,
+    "Instagram": 3.95,
+    "Pinterest": 1.87,
+    "Twitter": 1.53,
+    "YouTube": 1.16,
+    "LinkedIn": 0.94
    },
    "top_web_platform": "Facebook"
   },
   "SVN": {
    "shares": {
-    "Facebook": 65.8,
-    "Instagram": 11.45,
-    "Twitter": 7.91,
-    "Pinterest": 5.04,
-    "YouTube": 4.79,
-    "reddit": 2.82
+    "Facebook": 62.74,
+    "Twitter": 11.08,
+    "Instagram": 9.86,
+    "Pinterest": 5.84,
+    "YouTube": 4.78,
+    "reddit": 3.67
    },
    "top_web_platform": "Facebook"
   },
   "SWE": {
    "shares": {
-    "Facebook": 71.28,
-    "Instagram": 19.38,
-    "Twitter": 4.41,
-    "YouTube": 1.53,
-    "Pinterest": 1.27,
-    "reddit": 1.15
+    "Facebook": 68.47,
+    "Instagram": 20.54,
+    "Twitter": 5.43,
+    "Pinterest": 1.53,
+    "reddit": 1.44,
+    "YouTube": 1.43
    },
    "top_web_platform": "Facebook"
   },
   "SWZ": {
    "shares": {
-    "Facebook": 59.6,
-    "Pinterest": 11.51,
-    "Twitter": 8.51,
-    "YouTube": 5.79,
-    "Instagram": 5.72,
-    "LinkedIn": 5.22
+    "Facebook": 60.01,
+    "Pinterest": 10.3,
+    "Twitter": 8.56,
+    "LinkedIn": 5.96,
+    "YouTube": 5.76,
+    "Instagram": 5.56
    },
    "top_web_platform": "Facebook"
   },
   "SYC": {
    "shares": {
-    "Facebook": 59.96,
-    "Twitter": 17.62,
-    "Instagram": 8.02,
-    "Pinterest": 5.47,
-    "YouTube": 5.15,
-    "reddit": 2.51
+    "Facebook": 69.14,
+    "Twitter": 15.79,
+    "Instagram": 6.55,
+    "Pinterest": 3.47,
+    "YouTube": 2.91,
+    "reddit": 1.39
    },
    "top_web_platform": "Facebook"
   },
   "SYR": {
    "shares": {
-    "Facebook": 77.09,
-    "Instagram": 11.67,
-    "YouTube": 9.27,
-    "Twitter": 1.82
+    "Facebook": 71.07,
+    "Instagram": 14.78,
+    "YouTube": 11.14,
+    "Twitter": 2.78
    },
    "top_web_platform": "Facebook"
   },
   "TCD": {
    "shares": {
-    "Facebook": 55.11,
-    "Twitter": 27.26,
-    "YouTube": 12.46,
-    "Instagram": 4.77
+    "Facebook": 64.18,
+    "Twitter": 18.49,
+    "YouTube": 12.84,
+    "Instagram": 4.22
    },
    "top_web_platform": "Facebook"
   },
   "TGO": {
    "shares": {
-    "Facebook": 65.91,
-    "Twitter": 16.79,
-    "YouTube": 9.54,
-    "Instagram": 2.95,
-    "Pinterest": 2.86,
+    "Facebook": 66.96,
+    "Twitter": 15.56,
+    "YouTube": 9.84,
+    "Pinterest": 3.05,
+    "Instagram": 2.37,
     "reddit": 1.04
    },
    "top_web_platform": "Facebook"
   },
   "THA": {
    "shares": {
-    "Facebook": 69.33,
-    "YouTube": 15.65,
-    "Twitter": 7.66,
-    "Instagram": 4.9,
-    "Pinterest": 1.37,
-    "reddit": 0.65
+    "Facebook": 66.41,
+    "YouTube": 20.94,
+    "Twitter": 6.55,
+    "Instagram": 4.13,
+    "Pinterest": 1.15,
+    "reddit": 0.56
    },
    "top_web_platform": "Facebook"
   },
   "TJK": {
    "shares": {
-    "Facebook": 33.45,
-    "Instagram": 30.54,
-    "Twitter": 15.74,
-    "YouTube": 10.37,
-    "Pinterest": 6.35,
-    "reddit": 2.74
+    "Facebook": 40.3,
+    "Instagram": 27.78,
+    "Twitter": 15.36,
+    "YouTube": 7.63,
+    "Pinterest": 5.45,
+    "reddit": 2.68
    },
    "top_web_platform": "Facebook"
   },
   "TKM": {
    "shares": {
-    "Twitter": 59.34,
-    "Pinterest": 18.9,
-    "Facebook": 17.12,
-    "LinkedIn": 1.63,
-    "Instagram": 1.63,
-    "YouTube": 1.39
+    "Twitter": 50.8,
+    "Pinterest": 22.87,
+    "Facebook": 21.49,
+    "LinkedIn": 3.21,
+    "Instagram": 1.63
    },
    "top_web_platform": "Twitter"
   },
   "TLS": {
    "shares": {
-    "Facebook": 76.58,
-    "YouTube": 9.81,
-    "Pinterest": 7.65,
-    "Twitter": 2.43,
-    "Instagram": 2.31,
-    "reddit": 0.73
+    "Facebook": 89.39,
+    "YouTube": 4.84,
+    "Twitter": 2.04,
+    "Pinterest": 1.97,
+    "Instagram": 1.24
    },
    "top_web_platform": "Facebook"
   },
   "TON": {
    "shares": {
-    "Facebook": 83.48,
-    "Pinterest": 4.75,
-    "Instagram": 3.9,
-    "reddit": 3.51,
-    "YouTube": 2.58,
-    "Twitter": 1.78
+    "Facebook": 82.05,
+    "Pinterest": 4.81,
+    "reddit": 4.22,
+    "YouTube": 3.71,
+    "Twitter": 3.08,
+    "Instagram": 2.13
    },
    "top_web_platform": "Facebook"
   },
   "TTO": {
    "shares": {
-    "Facebook": 85.61,
-    "Instagram": 9.58,
-    "Pinterest": 1.9,
-    "YouTube": 1.11,
-    "reddit": 0.63,
-    "Twitter": 0.59
+    "Facebook": 88.63,
+    "Instagram": 6.32,
+    "Pinterest": 1.99,
+    "YouTube": 0.98,
+    "Twitter": 0.71,
+    "LinkedIn": 0.69
    },
    "top_web_platform": "Facebook"
   },
   "TUN": {
    "shares": {
-    "Facebook": 78.13,
-    "YouTube": 11.78,
-    "Instagram": 6.56,
-    "Twitter": 1.89,
-    "LinkedIn": 0.77
+    "Facebook": 77.54,
+    "YouTube": 12.0,
+    "Instagram": 6.25,
+    "Twitter": 2.33,
+    "LinkedIn": 0.9,
+    "Pinterest": 0.57
    },
    "top_web_platform": "Facebook"
   },
   "TUR": {
    "shares": {
-    "Facebook": 70.09,
-    "Instagram": 16.33,
-    "YouTube": 8.9,
-    "Twitter": 2.85,
-    "Pinterest": 0.81,
-    "reddit": 0.56
+    "Facebook": 68.52,
+    "Instagram": 16.0,
+    "YouTube": 9.81,
+    "Twitter": 3.7,
+    "Pinterest": 0.99,
+    "reddit": 0.54
    },
    "top_web_platform": "Facebook"
   },
   "TUV": {
    "shares": {
-    "Facebook": 43.58,
-    "Pinterest": 41.78,
+    "Facebook": 58.48,
+    "Pinterest": 24.14,
+    "Instagram": 6.67,
     "reddit": 5.95,
     "Twitter": 3.57,
-    "YouTube": 3.15,
-    "Instagram": 1.96
+    "YouTube": 1.19
    },
    "top_web_platform": "Facebook"
   },
   "TZA": {
    "shares": {
-    "YouTube": 46.91,
-    "Facebook": 29.45,
-    "Instagram": 11.27,
-    "Pinterest": 6.02,
-    "Twitter": 2.54,
-    "reddit": 2.12
+    "YouTube": 43.55,
+    "Facebook": 32.83,
+    "Instagram": 11.06,
+    "Pinterest": 5.18,
+    "Twitter": 3.42,
+    "reddit": 2.39
    },
    "top_web_platform": "YouTube"
   },
   "UGA": {
    "shares": {
-    "YouTube": 33.59,
-    "Twitter": 23.45,
-    "Instagram": 12.68,
-    "Facebook": 11.94,
-    "Pinterest": 11.36,
-    "LinkedIn": 3.71
+    "YouTube": 30.55,
+    "Twitter": 27.21,
+    "Facebook": 12.73,
+    "Instagram": 11.51,
+    "Pinterest": 10.91,
+    "LinkedIn": 3.84
    },
    "top_web_platform": "YouTube"
   },
   "UKR": {
    "shares": {
-    "YouTube": 73.41,
-    "Facebook": 16.98,
-    "Instagram": 5.18,
-    "Pinterest": 1.42,
-    "Twitter": 1.35,
-    "reddit": 1.2
+    "YouTube": 71.57,
+    "Facebook": 19.35,
+    "Instagram": 3.98,
+    "Pinterest": 1.81,
+    "Twitter": 1.54,
+    "reddit": 1.23
    },
    "top_web_platform": "YouTube"
   },
   "URY": {
    "shares": {
-    "Facebook": 63.46,
-    "Instagram": 29.7,
-    "YouTube": 3.65,
-    "Twitter": 1.2,
-    "Pinterest": 1.02
+    "Facebook": 68.87,
+    "Instagram": 24.73,
+    "YouTube": 3.58,
+    "Twitter": 1.21,
+    "Pinterest": 0.78
    },
    "top_web_platform": "Facebook"
   },
   "USA": {
    "shares": {
-    "Facebook": 67.18,
-    "Twitter": 14.24,
-    "Pinterest": 6.15,
-    "Instagram": 4.98,
-    "reddit": 3.84,
-    "YouTube": 2.7
+    "Facebook": 62.69,
+    "Twitter": 15.96,
+    "Pinterest": 6.67,
+    "reddit": 5.63,
+    "Instagram": 5.17,
+    "YouTube": 2.97
    },
    "top_web_platform": "Facebook"
   },
   "UZB": {
    "shares": {
-    "Instagram": 36.83,
-    "Twitter": 20.83,
-    "Facebook": 16.66,
-    "YouTube": 9.69,
-    "Pinterest": 8.54,
-    "reddit": 5.27
+    "Instagram": 45.61,
+    "Twitter": 20.39,
+    "Facebook": 13.85,
+    "YouTube": 7.29,
+    "Pinterest": 7.23,
+    "reddit": 3.83
    },
    "top_web_platform": "Instagram"
   },
   "VAT": {
    "shares": {
-    "Facebook": 87.27,
-    "Twitter": 12.73
+    "Facebook": 68.75,
+    "Twitter": 20.13,
+    "Instagram": 11.11
    },
    "top_web_platform": "Facebook"
   },
   "VCT": {
    "shares": {
-    "Facebook": 73.61,
-    "Instagram": 14.58,
-    "Pinterest": 4.91,
-    "YouTube": 2.63,
-    "LinkedIn": 2.07,
-    "Twitter": 1.54
+    "Facebook": 74.61,
+    "Instagram": 8.68,
+    "Pinterest": 5.18,
+    "YouTube": 4.05,
+    "Twitter": 3.61,
+    "LinkedIn": 2.54
    },
    "top_web_platform": "Facebook"
   },
   "VEN": {
    "shares": {
-    "Facebook": 56.28,
-    "YouTube": 25.59,
-    "Instagram": 9.27,
-    "Twitter": 2.84,
-    "Pinterest": 2.71,
-    "reddit": 1.44
+    "Facebook": 64.62,
+    "YouTube": 18.12,
+    "Instagram": 8.35,
+    "Twitter": 3.29,
+    "Pinterest": 2.35,
+    "LinkedIn": 1.82
    },
    "top_web_platform": "Facebook"
   },
   "VNM": {
    "shares": {
-    "Facebook": 49.19,
-    "YouTube": 38.73,
-    "Pinterest": 4.08,
-    "Twitter": 4.06,
-    "reddit": 1.91,
-    "Instagram": 1.22
+    "Facebook": 48.51,
+    "YouTube": 39.36,
+    "Twitter": 4.9,
+    "Pinterest": 3.76,
+    "reddit": 1.44,
+    "Instagram": 1.28
    },
    "top_web_platform": "Facebook"
   },
   "VUT": {
    "shares": {
-    "Facebook": 68.44,
-    "Twitter": 10.36,
-    "reddit": 6.18,
-    "Pinterest": 5.76,
-    "YouTube": 3.22,
-    "Instagram": 3.01
+    "Facebook": 70.78,
+    "Twitter": 8.46,
+    "Pinterest": 6.7,
+    "reddit": 4.37,
+    "Instagram": 3.5,
+    "LinkedIn": 2.91
    },
    "top_web_platform": "Facebook"
   },
   "WSM": {
    "shares": {
-    "Facebook": 78.48,
-    "Pinterest": 10.53,
-    "Instagram": 5.17,
-    "Twitter": 3.0,
-    "YouTube": 1.65,
-    "reddit": 1.16
+    "Facebook": 77.04,
+    "Pinterest": 11.36,
+    "Instagram": 4.72,
+    "Twitter": 4.06,
+    "YouTube": 1.62,
+    "reddit": 1.19
    },
    "top_web_platform": "Facebook"
   },
   "YEM": {
    "shares": {
-    "Facebook": 39.72,
-    "YouTube": 34.6,
-    "Instagram": 16.54,
-    "Twitter": 8.7
+    "Facebook": 44.77,
+    "YouTube": 30.25,
+    "Instagram": 15.41,
+    "Twitter": 9.02
    },
    "top_web_platform": "Facebook"
   },
   "ZAF": {
    "shares": {
-    "Facebook": 73.58,
-    "Pinterest": 6.85,
-    "YouTube": 5.87,
-    "Instagram": 5.85,
-    "Twitter": 3.58,
-    "LinkedIn": 2.88
+    "Facebook": 71.26,
+    "Pinterest": 7.22,
+    "YouTube": 6.57,
+    "Instagram": 4.75,
+    "Twitter": 4.4,
+    "LinkedIn": 4.26
    },
    "top_web_platform": "Facebook"
   },
   "ZMB": {
    "shares": {
-    "Facebook": 55.1,
-    "YouTube": 13.75,
-    "Pinterest": 10.49,
-    "Instagram": 8.62,
-    "Twitter": 6.12,
-    "reddit": 3.25
+    "Facebook": 59.61,
+    "YouTube": 13.41,
+    "Pinterest": 8.37,
+    "Twitter": 6.6,
+    "Instagram": 5.85,
+    "reddit": 3.44
    },
    "top_web_platform": "Facebook"
   },
   "ZWE": {
    "shares": {
-    "Facebook": 52.36,
-    "YouTube": 15.9,
-    "Pinterest": 9.94,
-    "Twitter": 9.28,
-    "Instagram": 6.62,
-    "LinkedIn": 3.0
+    "Facebook": 55.76,
+    "YouTube": 13.53,
+    "Twitter": 9.95,
+    "Pinterest": 9.02,
+    "Instagram": 5.39,
+    "LinkedIn": 3.54
    },
    "top_web_platform": "Facebook"
   }

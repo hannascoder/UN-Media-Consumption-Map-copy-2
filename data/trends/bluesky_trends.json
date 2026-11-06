@@ -6,23 +6,41 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-06T02:44:31+00:00",
+ "retrieved_at": "2026-11-06T13:08:10+00:00",
  "date": "2026-11-06",
  "trends": [
   {
-   "topic": "a852932ad52d",
-   "display_name": "Authors share books with newcomers",
+   "topic": "9cc9ec092974",
+   "display_name": "Godzilla Minus Zero opens",
    "rank": 1,
-   "post_count": 107,
-   "category": "culture",
+   "post_count": 1614,
+   "category": "entertainment",
+   "started": "2026-11-03",
+   "new": false
+  },
+  {
+   "topic": "c7bf721b2616",
+   "display_name": "Tesla ends Cybertruck production",
+   "rank": 2,
+   "post_count": 631,
+   "category": "business",
    "started": "2026-11-06",
    "new": true
   },
   {
-   "topic": "59e5d0329afe",
-   "display_name": "ICE detentions of US citizens",
-   "rank": 2,
-   "post_count": 653,
+   "topic": "abcfbe858397",
+   "display_name": "Southern states voting data",
+   "rank": 3,
+   "post_count": 2651,
+   "category": "politics",
+   "started": "2026-11-04",
+   "new": false
+  },
+  {
+   "topic": "b80b825eec91",
+   "display_name": "Russell Brand's past left-wing image",
+   "rank": 4,
+   "post_count": 2566,
    "category": "politics",
    "started": "2026-11-05",
    "new": false
@@ -30,209 +48,191 @@
   {
    "topic": "105480a5b405",
    "display_name": "Films watched more than six times",
-   "rank": 3,
-   "post_count": 117,
+   "rank": 5,
+   "post_count": 1453,
    "category": "entertainment",
    "started": "2026-11-05",
    "new": true
   },
   {
-   "topic": "9cc9ec092974",
-   "display_name": "Godzilla Minus Zero opens",
-   "rank": 4,
-   "post_count": 1387,
-   "category": "entertainment",
-   "started": "2026-11-03",
-   "new": false
-  },
-  {
-   "topic": "3ed05fd66b9a",
-   "display_name": "Trump declares Oval Office national monument",
-   "rank": 5,
-   "post_count": 1395,
-   "category": "politics",
-   "started": "2026-11-05",
-   "new": false
-  },
-  {
-   "topic": "ce21c7867e8d",
-   "display_name": "One actor movie marathon prompt",
+   "topic": "a852932ad52d",
+   "display_name": "Authors share books with newcomers",
    "rank": 6,
-   "post_count": 844,
-   "category": "entertainment",
-   "started": "2026-11-05",
-   "new": false
-  },
-  {
-   "topic": "ea4cf160755e",
-   "display_name": "Saudi fund's Unity buyout talks",
-   "rank": 7,
-   "post_count": 167,
-   "category": "business",
+   "post_count": 461,
+   "category": "culture",
    "started": "2026-11-06",
    "new": true
   },
   {
-   "topic": "a99b54dc0dee",
-   "display_name": "Your role in a heist",
-   "rank": 8,
-   "post_count": 606,
-   "category": "culture",
-   "started": "2026-11-05",
-   "new": true
+   "topic": "fb7b005a5b87",
+   "display_name": "Ocarina of Time remake release",
+   "rank": 7,
+   "post_count": 4835,
+   "category": "entertainment",
+   "started": "2026-11-04",
+   "new": false
   },
   {
    "topic": "4868e75e5acd",
    "display_name": "Childhood villain origin stories",
-   "rank": 9,
-   "post_count": 1341,
+   "rank": 8,
+   "post_count": 1696,
    "category": "culture",
    "started": "2026-11-05",
    "new": false
   },
   {
-   "topic": "b3e8d9271275",
-   "display_name": "Salon shuts down",
+   "topic": "a99b54dc0dee",
+   "display_name": "Your role in a heist",
+   "rank": 9,
+   "post_count": 745,
+   "category": "culture",
+   "started": "2026-11-05",
+   "new": true
+  },
+  {
+   "topic": "77cccde8eca8",
+   "display_name": "Bank of England rate decision",
    "rank": 10,
-   "post_count": 494,
+   "post_count": 262,
    "category": "business",
    "started": "2026-11-05",
    "new": false
   },
   {
-   "topic": "b597ab026cda",
-   "display_name": "Popular vote compact nears 270 threshold",
+   "topic": "1b510e28ae73",
+   "display_name": "Trump's arch federal approval review",
    "rank": 11,
-   "post_count": 385,
+   "post_count": 664,
    "category": "politics",
    "started": "2026-11-05",
    "new": false
   },
   {
-   "topic": "abcfbe858397",
-   "display_name": "Southern states voting data",
+   "topic": "a43efea0ae49",
+   "display_name": "Bomb threats divert European flights",
    "rank": 12,
-   "post_count": 2247,
-   "category": "politics",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "49ec834b7e63",
-   "display_name": "Lauren Boebert's congressional race",
-   "rank": 13,
-   "post_count": 492,
+   "post_count": 529,
    "category": "politics",
    "started": "2026-11-05",
    "new": false
-  },
-  {
-   "topic": "ec62af0bdeff",
-   "display_name": "Abdul El-Sayed's Michigan Senate race",
-   "rank": 14,
-   "post_count": 2730,
-   "category": "politics",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "fb7b005a5b87",
-   "display_name": "Ocarina of Time remake release",
-   "rank": 15,
-   "post_count": 4119,
-   "category": "entertainment",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "e445b9944d32",
-   "display_name": "Newsom commutes California death row",
-   "rank": 16,
-   "post_count": 1133,
-   "category": "politics",
-   "started": "2026-11-05",
-   "new": false
-  },
-  {
-   "topic": "b80b825eec91",
-   "display_name": "Russell Brand's past left-wing image",
-   "rank": 17,
-   "post_count": 1640,
-   "category": "politics",
-   "started": "2026-11-05",
-   "new": false
-  },
-  {
-   "topic": "f9b3b370d6b9",
-   "display_name": "Nintendo and Sony report sales figures",
-   "rank": 18,
-   "post_count": 418,
-   "category": "entertainment",
-   "started": "2026-11-05",
-   "new": false
-  },
-  {
-   "topic": "1014be959251",
-   "display_name": "Colom's \"bless her heart\" reply",
-   "rank": 19,
-   "post_count": 3286,
-   "category": "politics",
-   "started": "2026-11-04",
-   "new": true
   },
   {
    "topic": "a56eadca42c5",
    "display_name": "US data center ban votes",
-   "rank": 20,
-   "post_count": 3774,
+   "rank": 13,
+   "post_count": 3925,
    "category": "politics",
    "started": "2026-10-29",
    "new": false
   },
   {
+   "topic": "59e5d0329afe",
+   "display_name": "ICE detentions of US citizens",
+   "rank": 14,
+   "post_count": 920,
+   "category": "politics",
+   "started": "2026-11-05",
+   "new": false
+  },
+  {
+   "topic": "3ed05fd66b9a",
+   "display_name": "Trump declares Oval Office national monument",
+   "rank": 15,
+   "post_count": 1909,
+   "category": "politics",
+   "started": "2026-11-05",
+   "new": false
+  },
+  {
    "topic": "d7937333696e",
    "display_name": "Speculation Trump allies will flee",
-   "rank": 21,
-   "post_count": 1426,
+   "rank": 16,
+   "post_count": 1526,
    "category": "politics",
    "started": "2026-11-04",
    "new": false
   },
   {
-   "topic": "40f6e2b7c557",
-   "display_name": "Trump demands votes for Dan Sullivan",
-   "rank": 22,
-   "post_count": 118,
-   "category": "politics",
-   "started": "2026-11-05",
-   "new": true
-  },
-  {
-   "topic": "2531944fe349",
-   "display_name": "Gina Hinojosa's Texas governor race",
-   "rank": 23,
-   "post_count": 250,
-   "category": "politics",
-   "started": "2026-11-05",
-   "new": false
-  },
-  {
    "topic": "0a96c48d890c",
    "display_name": "Favorite films not set on Earth",
-   "rank": 24,
-   "post_count": 206,
+   "rank": 17,
+   "post_count": 264,
    "category": "entertainment",
    "started": "2026-11-05",
    "new": false
   },
   {
-   "topic": "1d4049a6717b",
-   "display_name": "Joint List backs Eisenkot for government",
-   "rank": 25,
-   "post_count": 212,
+   "topic": "c6d1dfcf9e2c",
+   "display_name": "Canada budget offers artist tax break",
+   "rank": 18,
+   "post_count": 141,
    "category": "politics",
    "started": "2026-11-05",
+   "new": true
+  },
+  {
+   "topic": "86e84b2f2f73",
+   "display_name": "\"Post a blue character\" meme",
+   "rank": 19,
+   "post_count": 249,
+   "category": "culture",
+   "started": "2026-11-04",
+   "new": true
+  },
+  {
+   "topic": "31079da29a2e",
+   "display_name": "Historic candidacies in Congress races",
+   "rank": 20,
+   "post_count": 129,
+   "category": "politics",
+   "started": "2026-11-04",
+   "new": true
+  },
+  {
+   "topic": "0a6b73c76957",
+   "display_name": "Colom vs. Hyde-Smith Senate race",
+   "rank": 21,
+   "post_count": 154,
+   "category": "politics",
+   "started": "2026-11-06",
+   "new": true
+  },
+  {
+   "topic": "0b377e400fc6",
+   "display_name": "Corporate money ballot measures",
+   "rank": 22,
+   "post_count": 161,
+   "category": "politics",
+   "started": "2026-11-04",
+   "new": true
+  },
+  {
+   "topic": "29c959ea8508",
+   "display_name": "Israel's war in Gaza",
+   "rank": 23,
+   "post_count": 2680,
+   "category": "politics",
+   "started": "2026-10-30",
    "new": false
+  },
+  {
+   "topic": "046b9951a23c",
+   "display_name": "Early 2028 election speculation",
+   "rank": 24,
+   "post_count": 677,
+   "category": "politics",
+   "started": "2026-11-04",
+   "new": false
+  },
+  {
+   "topic": "ea4cf160755e",
+   "display_name": "Saudi fund's Unity buyout talks",
+   "rank": 25,
+   "post_count": 304,
+   "category": "business",
+   "started": "2026-11-06",
+   "new": true
   }
  ],
  "history": {
@@ -579,15 +579,24 @@
    "World of Warcraft: Forever launches"
   ],
   "2026-11-06": [
+   "\"Post a blue character\" meme",
    "Abdul El-Sayed's Michigan Senate race",
    "Authors share books with newcomers",
+   "Bank of England rate decision",
+   "Bomb threats divert European flights",
+   "Canada budget offers artist tax break",
    "Childhood villain origin stories",
+   "Colom vs. Hyde-Smith Senate race",
    "Colom's \"bless her heart\" reply",
+   "Corporate money ballot measures",
+   "Early 2028 election speculation",
    "Favorite films not set on Earth",
    "Films watched more than six times",
    "Gina Hinojosa's Texas governor race",
    "Godzilla Minus Zero opens",
+   "Historic candidacies in Congress races",
    "ICE detentions of US citizens",
+   "Israel's war in Gaza",
    "Joint List backs Eisenkot for government",
    "Lauren Boebert's congressional race",
    "Newsom commutes California death row",
@@ -600,8 +609,10 @@
    "Saudi fund's Unity buyout talks",
    "Southern states voting data",
    "Speculation Trump allies will flee",
+   "Tesla ends Cybertruck production",
    "Trump declares Oval Office national monument",
    "Trump demands votes for Dan Sullivan",
+   "Trump's arch federal approval review",
    "US data center ban votes",
    "Your role in a heist"
   ]

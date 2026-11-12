@@ -6,24 +6,24 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-12T19:02:28+00:00",
+ "retrieved_at": "2026-11-12T22:14:50+00:00",
  "date": "2026-11-12",
  "trends": [
   {
-   "topic": "2fff3b60524e",
-   "display_name": "Microsoft 365 outage reported",
+   "topic": "9716d266c42d",
+   "display_name": "ICE reportedly detains Haitian boy",
    "rank": 1,
-   "post_count": 757,
-   "category": "science-tech",
-   "started": "2026-11-12",
-   "new": true
+   "post_count": 1721,
+   "category": "politics",
+   "started": "2026-11-06",
+   "new": false
   },
   {
-   "topic": "5216827d128e",
-   "display_name": "Russell Brand sexual assault trial",
+   "topic": "c69d0250b5d6",
+   "display_name": "Andy Burnham and EU rejoining",
    "rank": 2,
-   "post_count": 297,
-   "category": "entertainment",
+   "post_count": 170,
+   "category": "politics",
    "started": "2026-11-12",
    "new": true
   },
@@ -31,26 +31,26 @@
    "topic": "7ba52044ff23",
    "display_name": "Next Nvidia CEO, wrong answers only",
    "rank": 3,
-   "post_count": 421,
+   "post_count": 880,
    "category": "culture",
+   "started": "2026-11-12",
+   "new": true
+  },
+  {
+   "topic": "2fff3b60524e",
+   "display_name": "Microsoft 365 outage reported",
+   "rank": 4,
+   "post_count": 4854,
+   "category": "science-tech",
    "started": "2026-11-12",
    "new": true
   },
   {
    "topic": "377c4261-a859-4060-8faf-bcd446cd69e2",
    "display_name": "Jensen Huang resigns from Nvidia",
-   "rank": 4,
-   "post_count": 5489,
-   "category": "business",
-   "started": "2026-11-11",
-   "new": true
-  },
-  {
-   "topic": "c4895c678138",
-   "display_name": "House veterans bill vote",
    "rank": 5,
-   "post_count": 1181,
-   "category": "politics",
+   "post_count": 8019,
+   "category": "business",
    "started": "2026-11-11",
    "new": true
   },
@@ -58,52 +58,169 @@
    "topic": "105480a5b405",
    "display_name": "Films watched more than six times",
    "rank": 6,
-   "post_count": 8125,
+   "post_count": 8367,
    "category": "entertainment",
    "started": "2026-11-05",
    "new": false
   },
   {
-   "topic": "ba50a7d07dcc",
-   "display_name": "Video pitches Trumpcare to Trump",
+   "topic": "7bb7c6cce080",
+   "display_name": "Sonic's \"Memories and Beyond\" animation released",
    "rank": 7,
-   "post_count": 117,
-   "category": "politics",
-   "started": "2026-11-12",
-   "new": true
-  },
-  {
-   "topic": "4efd84db3303",
-   "display_name": "Nintendo announces Black Friday deals",
-   "rank": 8,
-   "post_count": 101,
-   "category": "business",
-   "started": "2026-11-12",
-   "new": true
-  },
-  {
-   "topic": "586f1a9346ed",
-   "display_name": "Star Wars 50th anniversary re-release",
-   "rank": 9,
-   "post_count": 491,
+   "post_count": 238,
    "category": "entertainment",
    "started": "2026-11-12",
    "new": true
   },
   {
-   "topic": "78cebb1593f3",
-   "display_name": "Building collapse reported in Brooklyn",
+   "topic": "7afee440e52b",
+   "display_name": "Leather jackets in tech",
+   "rank": 8,
+   "post_count": 3952,
+   "category": "culture",
+   "started": "2026-11-10",
+   "new": true
+  },
+  {
+   "topic": "b78e8878b312",
+   "display_name": "Books to take the oath on",
+   "rank": 9,
+   "post_count": 1054,
+   "category": "culture",
+   "started": "2026-11-10",
+   "new": false
+  },
+  {
+   "topic": "fb7b005a5b87",
+   "display_name": "Ocarina of Time remake",
    "rank": 10,
-   "post_count": 889,
-   "category": "other",
+   "post_count": 12761,
+   "category": "entertainment",
+   "started": "2026-11-04",
+   "new": false
+  },
+  {
+   "topic": "f59709337f6a",
+   "display_name": "White House counsel warns House Democrats",
+   "rank": 11,
+   "post_count": 2613,
+   "category": "politics",
+   "started": "2026-11-11",
+   "new": false
+  },
+  {
+   "topic": "1cc2c00ae70f",
+   "display_name": "Hegseth impeachment vote",
+   "rank": 12,
+   "post_count": 36541,
+   "category": "politics",
+   "started": "2026-11-06",
+   "new": true
+  },
+  {
+   "topic": "0a6b73c76957",
+   "display_name": "Scott Colom's Senate campaign ad",
+   "rank": 13,
+   "post_count": 10799,
+   "category": "politics",
+   "started": "2026-11-06",
+   "new": true
+  },
+  {
+   "topic": "3aa16dd2dabf",
+   "display_name": "Swearing in on the Quran",
+   "rank": 14,
+   "post_count": 209,
+   "category": "politics",
+   "started": "2026-11-12",
+   "new": true
+  },
+  {
+   "topic": "b029f075f9a0",
+   "display_name": "Kushner, Witkoff lead Ukraine talks",
+   "rank": 15,
+   "post_count": 3519,
+   "category": "politics",
+   "started": "2026-11-09",
+   "new": false
+  },
+  {
+   "topic": "7cad4567cfaf",
+   "display_name": "Ukraine reports Starshield speed limits",
+   "rank": 16,
+   "post_count": 636,
+   "category": "politics",
+   "started": "2026-11-12",
+   "new": true
+  },
+  {
+   "topic": "c4895c678138",
+   "display_name": "House veterans bill vote",
+   "rank": 17,
+   "post_count": 1368,
+   "category": "politics",
    "started": "2026-11-11",
    "new": true
   },
   {
-   "topic": "eaf8c17d557d",
-   "display_name": "Trump says no Iran deal needed",
-   "rank": 11,
-   "post_count": 825,
+   "topic": "9318c43fe63e",
+   "display_name": "Trump claims higher popularity",
+   "rank": 18,
+   "post_count": 165,
+   "category": "politics",
+   "started": "2026-11-12",
+   "new": true
+  },
+  {
+   "topic": "6641ce992760",
+   "display_name": "Trump's White House ballroom",
+   "rank": 19,
+   "post_count": 1487,
+   "category": "politics",
+   "started": "2026-11-11",
+   "new": true
+  },
+  {
+   "topic": "28d0e0d7553a",
+   "display_name": "Calls for Schumer to step down",
+   "rank": 20,
+   "post_count": 639,
+   "category": "politics",
+   "started": "2026-11-11",
+   "new": false
+  },
+  {
+   "topic": "fdaf6a017354",
+   "display_name": "Calls for Medicare for All",
+   "rank": 21,
+   "post_count": 986,
+   "category": "politics",
+   "started": "2026-11-10",
+   "new": false
+  },
+  {
+   "topic": "8ba552802f17",
+   "display_name": "Arlington guard reprimands Hegseth's entourage",
+   "rank": 22,
+   "post_count": 4275,
+   "category": "politics",
+   "started": "2026-11-11",
+   "new": false
+  },
+  {
+   "topic": "35b62d6568e5",
+   "display_name": "Trump ends Vance's Iran talks",
+   "rank": 23,
+   "post_count": 421,
+   "category": "politics",
+   "started": "2026-11-11",
+   "new": true
+  },
+  {
+   "topic": "d67f558ba219",
+   "display_name": "NYT's \"Stephen Miller Is No Loser\" piece",
+   "rank": 24,
+   "post_count": 120,
    "category": "politics",
    "started": "2026-11-12",
    "new": true
@@ -111,125 +228,8 @@
   {
    "topic": "8632ae815c3d",
    "display_name": "Religion in the Democratic Party",
-   "rank": 12,
-   "post_count": 195,
-   "category": "politics",
-   "started": "2026-11-12",
-   "new": true
-  },
-  {
-   "topic": "cadb806dd713",
-   "display_name": "Adam Smith hedges on Hegseth impeachment",
-   "rank": 13,
-   "post_count": 1167,
-   "category": "politics",
-   "started": "2026-11-11",
-   "new": false
-  },
-  {
-   "topic": "62bcc1aa1ab9",
-   "display_name": "Catherine Liu's NYT \"woke\" op-ed",
-   "rank": 14,
-   "post_count": 471,
-   "category": "politics",
-   "started": "2026-11-12",
-   "new": true
-  },
-  {
-   "topic": "8ba552802f17",
-   "display_name": "Arlington guard reprimands Hegseth's entourage",
-   "rank": 15,
-   "post_count": 3992,
-   "category": "politics",
-   "started": "2026-11-11",
-   "new": false
-  },
-  {
-   "topic": "7cad4567cfaf",
-   "display_name": "Ukraine reports Starshield speed limits",
-   "rank": 16,
-   "post_count": 573,
-   "category": "politics",
-   "started": "2026-11-12",
-   "new": true
-  },
-  {
-   "topic": "7bb7c6cce080",
-   "display_name": "Sonic's \"Memories and Beyond\" animation released",
-   "rank": 17,
-   "post_count": 145,
-   "category": "entertainment",
-   "started": "2026-11-12",
-   "new": true
-  },
-  {
-   "topic": "28d0e0d7553a",
-   "display_name": "Calls for Schumer to step down",
-   "rank": 18,
-   "post_count": 489,
-   "category": "politics",
-   "started": "2026-11-11",
-   "new": false
-  },
-  {
-   "topic": "f59709337f6a",
-   "display_name": "White House counsel warns House Democrats",
-   "rank": 19,
-   "post_count": 2455,
-   "category": "politics",
-   "started": "2026-11-11",
-   "new": false
-  },
-  {
-   "topic": "b39544e1c3db",
-   "display_name": "COP31 climate summit in Antalya",
-   "rank": 20,
-   "post_count": 2770,
-   "category": "politics",
-   "started": "2026-11-04",
-   "new": false
-  },
-  {
-   "topic": "cddb65bbf151",
-   "display_name": "Emmer's Somali civil war claim",
-   "rank": 21,
-   "post_count": 290,
-   "category": "politics",
-   "started": "2026-11-12",
-   "new": true
-  },
-  {
-   "topic": "669eb443521a",
-   "display_name": "Jeffries lists Democratic priorities",
-   "rank": 22,
-   "post_count": 3805,
-   "category": "politics",
-   "started": "2026-11-09",
-   "new": true
-  },
-  {
-   "topic": "b029f075f9a0",
-   "display_name": "Kushner, Witkoff lead Ukraine talks",
-   "rank": 23,
-   "post_count": 3247,
-   "category": "politics",
-   "started": "2026-11-09",
-   "new": false
-  },
-  {
-   "topic": "f52103738b75",
-   "display_name": "Scott Colom's Senate campaign ad",
-   "rank": 24,
-   "post_count": 2763,
-   "category": "politics",
-   "started": "2026-11-12",
-   "new": true
-  },
-  {
-   "topic": "e405942ddfa6",
-   "display_name": "Trump warns of migrant caravans",
    "rank": 25,
-   "post_count": 581,
+   "post_count": 310,
    "category": "politics",
    "started": "2026-11-12",
    "new": true
@@ -623,12 +623,15 @@
   "2026-11-12": [
    "AIPAC and missed Hegseth vote",
    "Adam Smith hedges on Hegseth impeachment",
+   "Andy Burnham and EU rejoining",
    "Arlington guard reprimands Hegseth's entourage",
    "Autumn foliage photos",
    "Ayanna Pressley for Speaker",
    "Bird photography",
+   "Books to take the oath on",
    "Building collapse reported in Brooklyn",
    "COP31 climate summit in Antalya",
+   "Calls for Medicare for All",
    "Calls for Schumer to step down",
    "Catherine Liu's NYT \"woke\" op-ed",
    "Congress debates ICE overhaul",
@@ -636,6 +639,7 @@
    "David Walliams faces misconduct allegations",
    "Emmer's Somali civil war claim",
    "Films watched more than six times",
+   "Hegseth impeachment vote",
    "House minority leader election",
    "House veterans bill vote",
    "Humble Bundle website redesign",
@@ -644,12 +648,14 @@
    "Jensen Huang resigns from Nvidia",
    "John Kennedy's hand-washing quip",
    "Kushner, Witkoff lead Ukraine talks",
+   "Leather jackets in tech",
    "Michael Carrick sacked as manager",
    "Microsoft 365 outage reported",
    "Midterm election aftermath",
    "Midterm election race results",
    "Mississippi Senate race and trans rights",
    "Mississippi election evokes civil rights legacy",
+   "NYT's \"Stephen Miller Is No Loser\" piece",
    "Next Nvidia CEO, wrong answers only",
    "Nintendo announces Black Friday deals",
    "Ocarina of Time remake",
@@ -661,7 +667,10 @@
    "Sonic's \"Memories and Beyond\" animation released",
    "Star Wars 50th anniversary re-release",
    "Study finds low regret after youth transition",
+   "Swearing in on the Quran",
    "Three-hour AEW Dynamite episode",
+   "Trump claims higher popularity",
+   "Trump ends Vance's Iran talks",
    "Trump says no Iran deal needed",
    "Trump warns of migrant caravans",
    "Trump's White House ballroom",

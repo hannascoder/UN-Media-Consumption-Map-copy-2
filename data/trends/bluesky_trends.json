@@ -6,233 +6,233 @@
   "method_note": "Topics trending across Bluesky network-wide at fetch time. GLOBAL only — no per-country split exists, so this must never be shown as any single country's signal. Bluesky users are not the general population. post_count is the size of that trend's feed: a magnitude, never a share. The endpoint namespace is officially 'unspecced' (unstable); the fetcher refuses to write on any shape change. The history block is this project's own rolling archive — the API keeps none.",
   "history_days_kept": 7
  },
- "retrieved_at": "2026-11-23T16:18:40+00:00",
+ "retrieved_at": "2026-11-23T22:49:54+00:00",
  "date": "2026-11-23",
  "trends": [
   {
-   "topic": "d4900f9c2d16",
-   "display_name": "Alice Huang espionage allegations",
+   "topic": "ee838eef1813",
+   "display_name": "Google plans personalized AI TV channel",
    "rank": 1,
-   "post_count": 1974,
+   "post_count": 564,
    "category": "science-tech",
-   "started": "2026-11-19",
+   "started": "2026-11-23",
    "new": true
   },
   {
    "topic": "f4212892e704",
    "display_name": "Israel's military campaign in Gaza",
    "rank": 2,
-   "post_count": 567,
+   "post_count": 733,
    "category": "politics",
-   "started": "2026-11-22",
-   "new": false
-  },
-  {
-   "topic": "4c6959ba363f",
-   "display_name": "SEC probes Nvidia accounting",
-   "rank": 3,
-   "post_count": 1616,
-   "category": "business",
-   "started": "2026-11-20",
-   "new": false
-  },
-  {
-   "topic": "d7666813cd09",
-   "display_name": "DNC unveils 2028 debate plan",
-   "rank": 4,
-   "post_count": 308,
-   "category": "politics",
-   "started": "2026-11-23",
-   "new": true
-  },
-  {
-   "topic": "322a7dc78c89",
-   "display_name": "Avengers: Doomsday runtime confirmed",
-   "rank": 5,
-   "post_count": 535,
-   "category": "entertainment",
-   "started": "2026-11-22",
-   "new": true
-  },
-  {
-   "topic": "ae138716b3d1",
-   "display_name": "Cyclops in Avengers: Doomsday footage",
-   "rank": 6,
-   "post_count": 132,
-   "category": "entertainment",
-   "started": "2026-11-23",
-   "new": true
-  },
-  {
-   "topic": "c26c56dc0236",
-   "display_name": "Grand Theft Auto VI release",
-   "rank": 7,
-   "post_count": 271,
-   "category": "entertainment",
-   "started": "2026-11-23",
-   "new": true
-  },
-  {
-   "topic": "4754b557e1be",
-   "display_name": "Thanksgiving dinner preparations",
-   "rank": 8,
-   "post_count": 984,
-   "category": "culture",
-   "started": "2026-11-19",
-   "new": false
-  },
-  {
-   "topic": "fb3a56a172fa",
-   "display_name": "Pope Leo praises cycling",
-   "rank": 9,
-   "post_count": 154,
-   "category": "culture",
-   "started": "2026-11-23",
-   "new": true
-  },
-  {
-   "topic": "58c3da2147e2",
-   "display_name": "King tides threaten Bay Area flooding",
-   "rank": 10,
-   "post_count": 248,
-   "category": "other",
    "started": "2026-11-22",
    "new": false
   },
   {
    "topic": "27cddaed38d4",
    "display_name": "Nvidia rehires Huang",
-   "rank": 11,
-   "post_count": 5379,
+   "rank": 3,
+   "post_count": 10774,
    "category": "politics",
    "started": "2026-11-23",
+   "new": true
+  },
+  {
+   "topic": "4c6959ba363f",
+   "display_name": "SEC probes Nvidia accounting",
+   "rank": 4,
+   "post_count": 3031,
+   "category": "business",
+   "started": "2026-11-20",
+   "new": false
+  },
+  {
+   "topic": "c26c56dc0236",
+   "display_name": "Grand Theft Auto VI release",
+   "rank": 5,
+   "post_count": 931,
+   "category": "entertainment",
+   "started": "2026-11-23",
+   "new": true
+  },
+  {
+   "topic": "d4900f9c2d16",
+   "display_name": "Alice Huang espionage allegations",
+   "rank": 6,
+   "post_count": 3240,
+   "category": "science-tech",
+   "started": "2026-11-19",
+   "new": true
+  },
+  {
+   "topic": "c05e41c595d2",
+   "display_name": "Weather forecasts include lead plume",
+   "rank": 7,
+   "post_count": 7828,
+   "category": "science-tech",
+   "started": "2026-11-18",
+   "new": true
+  },
+  {
+   "topic": "322a7dc78c89",
+   "display_name": "Cyclops in Avengers: Doomsday footage",
+   "rank": 8,
+   "post_count": 1160,
+   "category": "entertainment",
+   "started": "2026-11-22",
+   "new": true
+  },
+  {
+   "topic": "58c3da2147e2",
+   "display_name": "King tides threaten Bay Area flooding",
+   "rank": 9,
+   "post_count": 322,
+   "category": "other",
+   "started": "2026-11-22",
+   "new": false
+  },
+  {
+   "topic": "fb7b005a5b87",
+   "display_name": "Ocarina of Time remake",
+   "rank": 10,
+   "post_count": 15525,
+   "category": "entertainment",
+   "started": "2026-11-04",
+   "new": false
+  },
+  {
+   "topic": "6e83a5924f0d",
+   "display_name": "Ukraine claims Libya warship sinking",
+   "rank": 11,
+   "post_count": 2306,
+   "category": "politics",
+   "started": "2026-11-22",
    "new": true
   },
   {
    "topic": "9978857c5efa",
    "display_name": "Theresa May urges accepting Brexit",
    "rank": 12,
-   "post_count": 2059,
+   "post_count": 2349,
    "category": "politics",
    "started": "2026-11-22",
-   "new": false
-  },
-  {
-   "topic": "6e83a5924f0d",
-   "display_name": "Ukraine claims Libya warship sinking",
-   "rank": 13,
-   "post_count": 1976,
-   "category": "politics",
-   "started": "2026-11-22",
-   "new": true
-  },
-  {
-   "topic": "044de87a310a",
-   "display_name": "Carney jokes at Press Gallery dinner",
-   "rank": 14,
-   "post_count": 1210,
-   "category": "politics",
-   "started": "2026-11-19",
    "new": false
   },
   {
    "topic": "f4960492985c",
    "display_name": "ICE arrests at Seattle airport",
-   "rank": 15,
-   "post_count": 2789,
+   "rank": 13,
+   "post_count": 3110,
    "category": "politics",
    "started": "2026-11-21",
    "new": false
   },
   {
-   "topic": "a4c448680912",
-   "display_name": "Doctor Who Day anniversary",
-   "rank": 16,
-   "post_count": 383,
-   "category": "entertainment",
+   "topic": "48ab78c830ab",
+   "display_name": "Washington girls' sports sex exam law",
+   "rank": 14,
+   "post_count": 378,
+   "category": "politics",
    "started": "2026-11-23",
    "new": true
   },
   {
-   "topic": "b39544e1c3db",
-   "display_name": "EU rejects COP31 climate deal",
-   "rank": 17,
-   "post_count": 8551,
+   "topic": "c432c6319ea4",
+   "display_name": "House Ethics report on Gomez",
+   "rank": 15,
+   "post_count": 168,
    "category": "politics",
-   "started": "2026-11-04",
-   "new": false
+   "started": "2026-11-23",
+   "new": true
+  },
+  {
+   "topic": "d7666813cd09",
+   "display_name": "DNC unveils 2028 debate plan",
+   "rank": 16,
+   "post_count": 548,
+   "category": "politics",
+   "started": "2026-11-23",
+   "new": true
+  },
+  {
+   "topic": "3539ccc9f10c",
+   "display_name": "Leak reveals Russian war dead",
+   "rank": 17,
+   "post_count": 316,
+   "category": "politics",
+   "started": "2026-11-23",
+   "new": true
   },
   {
    "topic": "9f7486ced9ca",
    "display_name": "Smithsonian plan spotted on Metro",
    "rank": 18,
-   "post_count": 390,
+   "post_count": 615,
    "category": "politics",
    "started": "2026-11-23",
    "new": true
   },
   {
-   "topic": "c05e41c595d2",
-   "display_name": "Army issues Iowa evacuation advisory",
+   "topic": "fba11daf4901",
+   "display_name": "Riemann hypothesis proof claimed",
    "rank": 19,
-   "post_count": 7423,
-   "category": "politics",
-   "started": "2026-11-18",
-   "new": true
-  },
-  {
-   "topic": "8719602937e7",
-   "display_name": "Trump blames Democrats for selloff",
-   "rank": 20,
-   "post_count": 756,
-   "category": "politics",
+   "post_count": 2143,
+   "category": "science-tech",
    "started": "2026-11-20",
-   "new": true
-  },
-  {
-   "topic": "10bf76088faf",
-   "display_name": "NFL Week 11 games",
-   "rank": 21,
-   "post_count": 237,
-   "category": "sports",
-   "started": "2026-11-22",
    "new": false
   },
   {
-   "topic": "6a27ce676985",
-   "display_name": "Gaza families' donation appeals",
-   "rank": 22,
-   "post_count": 908,
+   "topic": "b39544e1c3db",
+   "display_name": "EU rejects COP31 climate deal",
+   "rank": 20,
+   "post_count": 8710,
    "category": "politics",
-   "started": "2026-11-17",
-   "new": true
+   "started": "2026-11-04",
+   "new": false
   },
   {
-   "topic": "92dc22cc8ff0",
-   "display_name": "Wolqotd prompt on flanderized OCs",
-   "rank": 23,
-   "post_count": 119,
-   "category": "culture",
+   "topic": "3c2b9ac44735",
+   "display_name": "BAAJA permitting bill Senate vote",
+   "rank": 21,
+   "post_count": 115,
+   "category": "politics",
    "started": "2026-11-23",
    "new": true
   },
   {
-   "topic": "b659c9e1d0a1",
-   "display_name": "Wave of software vulnerability disclosures",
-   "rank": 24,
-   "post_count": 588,
-   "category": "science-tech",
+   "topic": "9af36f07571d",
+   "display_name": "Fox News and American decline",
+   "rank": 22,
+   "post_count": 254,
+   "category": "politics",
    "started": "2026-11-19",
-   "new": false
+   "new": true
   },
   {
-   "topic": "fad3d58b9108",
-   "display_name": "Midterm election aftermath for democracy",
-   "rank": 25,
-   "post_count": 4032,
+   "topic": "0a31641fa636",
+   "display_name": "Push to remove Trump from office",
+   "rank": 23,
+   "post_count": 140,
    "category": "politics",
-   "started": "2026-11-13",
-   "new": false
+   "started": "2026-11-23",
+   "new": true
+  },
+  {
+   "topic": "d51907d35453",
+   "display_name": "Women's World Cup host vote",
+   "rank": 24,
+   "post_count": 214,
+   "category": "sports",
+   "started": "2026-11-23",
+   "new": true
+  },
+  {
+   "topic": "81105173e666",
+   "display_name": "Florida Amendment 3 property taxes",
+   "rank": 25,
+   "post_count": 214,
+   "category": "politics",
+   "started": "2026-11-22",
+   "new": true
   }
  ],
  "history": {
@@ -633,6 +633,7 @@
    "Army issues Iowa evacuation advisory",
    "Army plans Iowa lead detonation",
    "Avengers: Doomsday runtime confirmed",
+   "BAAJA permitting bill Senate vote",
    "Calls to release Epstein files",
    "Canadiens trade Michael Hage",
    "Carney jokes at Press Gallery dinner",
@@ -644,13 +645,18 @@
    "Doctor Who Day anniversary",
    "EU rejects COP31 climate deal",
    "Favorite first Magic set card",
+   "Florida Amendment 3 property taxes",
+   "Fox News and American decline",
    "Frivolous billionaire spending wishes",
    "GTA VI's Jason and Lucia",
    "Gaza families' donation appeals",
+   "Google plans personalized AI TV channel",
    "Grand Theft Auto VI release",
+   "House Ethics report on Gomez",
    "ICE arrests at Seattle airport",
    "Israel's military campaign in Gaza",
    "King tides threaten Bay Area flooding",
+   "Leak reveals Russian war dead",
    "Mamdani plans Rikers closure",
    "Midterm election aftermath for democracy",
    "Mike Johnson urges Republicans to show up",
@@ -658,7 +664,10 @@
    "NFL Week 11 games",
    "Nvidia China chip case",
    "Nvidia rehires Huang",
+   "Ocarina of Time remake",
    "Pope Leo praises cycling",
+   "Push to remove Trump from office",
+   "Riemann hypothesis proof claimed",
    "Russian warship explodes in Libya",
    "SEC probes Nvidia accounting",
    "Smithsonian plan spotted on Metro",
@@ -671,8 +680,11 @@
    "UK article on \"woke\" sandwich fillings",
    "Ukraine claims Libya warship sinking",
    "Unusually warm late November weather",
+   "Washington girls' sports sex exam law",
    "Wave of software vulnerability disclosures",
+   "Weather forecasts include lead plume",
    "Wolqotd prompt on flanderized OCs",
+   "Women's World Cup host vote",
    "World Court rules in Rohingya genocide case"
   ]
  }
